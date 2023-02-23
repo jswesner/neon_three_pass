@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"699e2faf-22d8-468d-9a6c-0469079daff3","D02","POSE","POSE.AOS.fish.point.02","2020-11-09T13:05Z","2020-11-09T14:01Z",1,"POSE.20201109.02.1.e-fisher","RHIATR","Rhinichthys atratulus",,36,"actual",,"0000-0003-3114-5862",
+"489fb8fc-72fa-4b07-a3d0-3bbde015a3f7","D02","POSE","POSE.AOS.fish.point.02","2020-11-09T15:08Z","2020-11-09T16:03Z",2,"POSE.20201109.02.2.e-fisher","RHIATR","Rhinichthys atratulus",,39,"actual",,"0000-0003-3114-5862",
+"3d2ad92f-e746-44bc-8670-ca800650cec6","D02","POSE","POSE.AOS.fish.point.02","2020-11-09T16:36Z","2020-11-09T17:08Z",3,"POSE.20201109.02.3.e-fisher","RHIATR","Rhinichthys atratulus",,21,"actual",,"0000-0003-3114-5862",
+"5a949877-a27f-48c3-a879-c24a76069034","D02","POSE","POSE.AOS.fish.point.06","2020-11-09T19:55Z","2020-11-09T20:44Z",1,"POSE.20201109.06.1.e-fisher","RHIATR","Rhinichthys atratulus",,7,"actual",,"0000-0003-3114-5862",
+"2c970cbd-4ae6-41b1-9347-fb2ceee9b9c0","D02","POSE","POSE.AOS.fish.point.07","2020-11-10T14:16Z","2020-11-10T14:57Z",2,"POSE.20201110.07.2.e-fisher","RHIATR","Rhinichthys atratulus",,37,"actual",,"0000-0003-3114-5862",
+"5d203c71-b0e2-4394-8c7c-c69a21eff031","D02","POSE","POSE.AOS.fish.point.07","2020-11-10T15:21Z","2020-11-10T16:07Z",3,"POSE.20201110.07.3.e-fisher","RHIATR","Rhinichthys atratulus",,19,"actual",,"0000-0003-3114-5862",
+"c6597010-816b-48eb-a71c-d0ded1385c44","D02","POSE","POSE.AOS.fish.point.09","2020-11-11T12:42Z","2020-11-11T13:39Z",1,"POSE.20201111.09.1.e-fisher","RHIATR","Rhinichthys atratulus",,2,"actual",,"0000-0003-3114-5862",
+"e0c81907-e64c-4b88-8c25-946ca467f71e","D02","POSE","POSE.AOS.fish.point.09","2020-11-11T14:14Z","2020-11-11T14:45Z",2,"POSE.20201111.09.2.e-fisher","RHIATR","Rhinichthys atratulus",,35,"actual",,"0000-0003-3114-5862",

@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"3d7a9f85-033e-4030-ba16-fa73426afaaf","D01","HOPB","HOPB.AOS.fish.point.02","2022-10-25T14:57Z","2022-10-25T16:05Z",1,"HOPB.20221025.02.1.e-fisher","RHIATR","Rhinichthys atratulus",,10,"actual",,"0000-0003-4958-6412",

@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"eeab1c30-f0a8-46ba-9a0c-31eb16344f0b","D09","PRLA","PRLA.AOS.riparian.point.01","2022-09-28T00:18Z","2022-09-28T17:44Z",4,"PRLA.20220927.01.4.fyke","PIMPRO","Pimephales promelas",,8378,"estimated",,"0000-0002-8352-658X",
+"fd45a0c4-266a-42d2-a9de-9c5f4c47a9cb","D09","PRLA","PRLA.AOS.riparian.point.01","2022-09-28T00:36Z","2022-09-28T01:39Z",1,"PRLA.20220927.01.1.e-fisher","PIMPRO","Pimephales promelas",,126,"actual",,"0000-0002-8352-658X","Settings on electro-shocker need adjusting for less mortality"
+"80bd0dc9-9c4d-43d0-980f-c59fd7bf2fbb","D09","PRLA","PRLA.AOS.riparian.point.01","2022-09-28T02:31Z","2022-09-28T03:15Z",2,"PRLA.20220927.01.2.e-fisher","PIMPRO","Pimephales promelas",,5,"actual",,"0000-0002-8352-658X",
+"38861faa-2aeb-4767-88db-aa23981497ec","D09","PRLA","PRLA.AOS.riparian.point.01","2022-09-28T03:25Z","2022-09-28T03:53Z",3,"PRLA.20220927.01.3.e-fisher","PIMPRO","Pimephales promelas",,23,"actual",,"0000-0002-8352-658X",

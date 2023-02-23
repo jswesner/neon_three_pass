@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"3f503884-9dca-4200-a57d-2d0392456cb9","D01","HOPB","HOPB.AOS.fish.point.02","2017-10-23T06:15Z","2017-10-23T19:30Z",1,"HOPB.20171023.02.1.e-fisher","RHIATR","Rhinichthys atratulus",,40,"actual",,"adavila@battelleecology.org",

@@ -1,0 +1,6 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"8da9cc5c-dfe5-4c3d-b8f8-fc84a5d536b7","D07","LECO","LECO.AOS.fish.point.01","2019-10-21T16:05Z","2019-10-21T17:40Z",1,"LECO.20191021.01.1.e-fisher","RHIATR","Rhinichthys atratulus",,19,"actual",,"0000-0003-3518-7795",
+"5d068960-e8df-435d-ae3a-15a105052667","D07","LECO","LECO.AOS.fish.point.02","2019-10-21T21:28Z","2019-10-21T22:48Z",1,"LECO.20191021.02.1.e-fisher","RHIATR","Rhinichthys atratulus",,71,"actual",,"0000-0003-3518-7795",
+"9898527b-f7f4-4a39-a5cd-93c21b039633","D07","LECO","LECO.AOS.fish.point.05","2019-10-22T18:31Z","2019-10-22T21:24Z",1,"LECO.20191022.05.1.e-fisher","RHIATR","Rhinichthys atratulus",,127,"actual",,"0000-0003-3518-7795",
+"943d4af7-af42-4f78-a248-d264bb79348e","D07","LECO","LECO.AOS.fish.point.07","2019-10-23T13:27Z","2019-10-23T14:46Z",1,"LECO.20191023.07.1.e-fisher","RHIATR","Rhinichthys atratulus",,35,"actual",,"0000-0003-3518-7795",
+"928e7e5c-643b-4596-be86-bc4784f49e86","D07","LECO","LECO.AOS.fish.point.10","2019-10-23T16:52Z","2019-10-23T18:14Z",1,"LECO.20191023.10.1.e-fisher","RHIATR","Rhinichthys atratulus",,39,"actual",,"0000-0003-3518-7795",

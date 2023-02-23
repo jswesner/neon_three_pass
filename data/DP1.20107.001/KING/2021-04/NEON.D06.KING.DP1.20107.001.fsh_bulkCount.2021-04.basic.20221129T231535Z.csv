@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"113cffff-3f09-4085-b17a-010c047d2085","D06","KING","KING.AOS.fish.point.01","2021-04-29T14:48Z","2021-04-29T15:58Z",1,"KING.20210429.01.1.e-fisher","CAMANO","Campostoma anomalum",,7,"actual",,"0000-0001-7163-2310",
+"88cf91d7-bf4d-40c3-9e50-5088b828b726","D06","KING","KING.AOS.fish.point.01","2021-04-29T14:48Z","2021-04-29T15:58Z",1,"KING.20210429.01.1.e-fisher","ETHSPE","Etheostoma spectabile",,66,"actual",,"0000-0001-7163-2310",
+"5a683b23-908d-4090-ac50-22cab4d2cbdd","D06","KING","KING.AOS.fish.point.01","2021-04-29T19:18Z","2021-04-29T20:26Z",2,"KING.20210429.01.2.e-fisher","CHRERY","Chrosomus erythrogaster",,37,"actual",,"0000-0001-7163-2310",
+"663cf3c8-7a83-4a21-adff-49c777522af7","D06","KING","KING.AOS.fish.point.01","2021-04-29T19:18Z","2021-04-29T20:26Z",2,"KING.20210429.01.2.e-fisher","ETHSPE","Etheostoma spectabile",,155,"actual",,"0000-0001-7163-2310",
+"682e98a8-caf9-4ba7-acf1-26a31f677773","D06","KING","KING.AOS.fish.point.01","2021-04-29T19:18Z","2021-04-29T20:26Z",2,"KING.20210429.01.2.e-fisher","CAMANO","Campostoma anomalum",,33,"actual",,"0000-0001-7163-2310",
+"41bd948c-6c76-4c27-8aee-b5eafa1b4ed7","D06","KING","KING.AOS.fish.point.01","2021-04-29T21:48Z","2021-04-29T22:51Z",3,"KING.20210429.01.3.e-fisher","ETHSPE","Etheostoma spectabile",,133,"actual",,"0000-0001-7163-2310",
+"9797784a-2698-4233-a369-90d94866e3fe","D06","KING","KING.AOS.fish.point.01","2021-04-29T21:48Z","2021-04-29T22:51Z",3,"KING.20210429.01.3.e-fisher","CHRERY","Chrosomus erythrogaster",,24,"actual",,"0000-0001-7163-2310",
+"f33ef1bf-01e5-4e56-8669-3be94d3c8ffe","D06","KING","KING.AOS.fish.point.01","2021-04-29T21:48Z","2021-04-29T22:51Z",3,"KING.20210429.01.3.e-fisher","CAMANO","Campostoma anomalum",,27,"actual",,"0000-0001-7163-2310",

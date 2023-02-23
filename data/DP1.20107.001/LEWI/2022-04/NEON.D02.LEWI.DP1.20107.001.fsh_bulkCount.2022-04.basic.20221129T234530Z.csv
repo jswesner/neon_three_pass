@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"0da2793a-8935-4d3b-a0d7-2646f07055e6","D02","LEWI","LEWI.AOS.fish.point.01","2022-04-11T14:37Z","2022-04-11T15:27Z",2,"LEWI.20220411.01.2.e-fisher","COTGIR","Cottus girardi",,56,"actual",,"0000-0003-3114-5862",
+"44f28d22-e901-4472-a86e-47311b6966c3","D02","LEWI","LEWI.AOS.fish.point.01","2022-04-11T15:56Z","2022-04-11T16:34Z",3,"LEWI.20220411.01.3.e-fisher","COTGIR","Cottus girardi",,29,"actual",,"0000-0003-3114-5862",
+"0673ba0d-52c7-4194-ab37-19f3a2dc99d1","D02","LEWI","LEWI.AOS.fish.point.04","2022-04-12T12:29Z","2022-04-12T13:33Z",1,"LEWI.20220412.04.1.e-fisher","COTGIR","Cottus girardi",,29,"actual",,"0000-0003-3114-5862",
+"2953994a-02c5-4f21-b104-585bcae86b64","D02","LEWI","LEWI.AOS.fish.point.04","2022-04-12T14:06Z","2022-04-12T14:55Z",2,"LEWI.20220412.04.2.e-fisher","COTGIR","Cottus girardi",,42,"actual",,"0000-0003-3114-5862",
+"b8ee06eb-e641-44f5-a65f-a2a7cca0e7ad","D02","LEWI","LEWI.AOS.fish.point.04","2022-04-12T15:28Z","2022-04-12T15:58Z",3,"LEWI.20220412.04.3.e-fisher","CLIFUN","Clinostomus funduloides",,25,"actual",,"0000-0003-3114-5862",
+"592ecd58-32ac-48d6-a826-3fcbdea5e3c0","D02","LEWI","LEWI.AOS.fish.point.07","2022-04-13T12:28Z","2022-04-13T13:17Z",1,"LEWI.20220413.07.1.e-fisher","COTGIR","Cottus girardi",,10,,,"0000-0003-3114-5862",
+"6fc00de3-f2c2-4a29-8d4f-d804b4a33ce5","D02","LEWI","LEWI.AOS.fish.point.09","2022-04-13T15:35Z","2022-04-13T16:04Z",2,"LEWI.20220413.09.2.e-fisher","COTGIR","Cottus girardi",,35,"actual",,"0000-0003-3114-5862",
+"afe1a78b-0980-48a1-af15-8fca1b8d8c04","D02","LEWI","LEWI.AOS.fish.point.09","2022-04-13T16:41Z","2022-04-13T17:13Z",3,"LEWI.20220413.09.3.e-fisher","COTGIR","Cottus girardi",,17,"actual",,"0000-0003-3114-5862",

@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"076f3636-8588-473e-b637-ec91e12d292c","D02","LEWI","LEWI.AOS.fish.point.01","2018-10-29T12:29Z","2018-10-29T13:30Z",1,"LEWI.20181029.01.1.e-fisher","COTGIR","Cottus girardi",,16,"actual",,"jcoloso@battelleecology.org",
+"bac2fa6c-a789-479f-92f7-88fac02e531f","D02","LEWI","LEWI.AOS.fish.point.01","2018-10-29T14:10Z","2018-10-29T14:50Z",2,"LEWI.20181029.01.2.e-fisher","COTGIR","Cottus girardi",,37,"actual",,"jcoloso@battelleecology.org",
+"5b77dc21-a9f8-40f5-88d3-c34672b7114b","D02","LEWI","LEWI.AOS.fish.point.01","2018-10-29T15:18Z","2018-10-29T16:01Z",3,"LEWI.20181029.01.3.e-fisher","COTGIR","Cottus girardi",,35,"actual",,"jcoloso@battelleecology.org",
+"29538e56-6da6-4454-b380-47cdae10a618","D02","LEWI","LEWI.AOS.fish.point.02","2018-10-29T16:58Z","2018-10-29T17:39Z",1,"LEWI.20181029.02.1.e-fisher","COTGIR","Cottus girardi",,12,"actual",,"jcoloso@battelleecology.org",
+"c2bebbda-e3a4-4af7-92cc-4336e0f96bfa","D02","LEWI","LEWI.AOS.fish.point.04","2018-10-30T14:40Z","2018-10-30T15:15Z",1,"LEWI.20181030.04.1.e-fisher","COTGIR","Cottus girardi",,9,"actual",,"jcoloso@battelleecology.org",
+"1cc17012-5e15-4cf5-ac55-caeee90082c7","D02","LEWI","LEWI.AOS.fish.point.04","2018-10-30T16:20Z","2018-10-30T17:16Z",2,"LEWI.20181030.04.2.e-fisher","COTGIR","Cottus girardi",,42,"actual",,"jcoloso@battelleecology.org",
+"6a42b4ea-c331-4469-82d0-4ae74dd1a9b6","D02","LEWI","LEWI.AOS.fish.point.04","2018-10-30T17:16Z","2018-10-30T17:47Z",3,"LEWI.20181030.04.3.e-fisher","COTGIR","Cottus girardi",,27,"actual",,"jcoloso@battelleecology.org",
+"fb71d1c3-0086-47b5-9a41-603608dfb617","D02","LEWI","LEWI.AOS.fish.point.09","2018-10-31T18:30Z","2018-10-31T18:51Z",3,"LEWI.20181031.09.3.e-fisher","COTGIR","Cottus girardi",,15,"actual",,"jcoloso@battelleecology.org",

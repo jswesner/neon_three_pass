@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"74c74cfd-28f3-4264-aa7f-4205022ed825","D05","LIRO","LIRO.AOS.riparian.point.09","2022-06-14T03:16Z","2022-06-14T03:22Z",1,"LIRO.20220613.09.1.e-fisher","MICSAL","Micropterus salmoides",,80,"estimated",,"0000-0002-6680-4162","Life Stage: Larval"

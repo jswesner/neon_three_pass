@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"a055c0c8-90ba-4dcd-b057-17c5a41159ab","D17","BIGC","BIGC.AOS.fish.point.04","2019-10-22T16:10Z","2019-10-22T18:15Z",1,"BIGC.20191022.04.1.e-fisher","SALTRU","Salmo trutta",,16,"actual",,"0000-0001-7072-0706",
+"e4d60d48-3410-4e74-b8cd-49ec7bec3de9","D17","BIGC","BIGC.AOS.fish.point.05","2019-10-23T16:15Z","2019-10-23T17:40Z",1,"BIGC.20191023.05.1.e-fisher","SALTRU","Salmo trutta",,22,"actual",,"0000-0001-7072-0706",
+"69c04372-4c02-431d-9954-a9a89f857f24","D17","BIGC","BIGC.AOS.fish.point.08","2019-10-24T16:18Z","2019-10-24T17:50Z",1,"BIGC.20191024.08.1.e-fisher","SALTRU","Salmo trutta",,36,"actual",,"0000-0001-7072-0706",
+"02150d0b-ad0d-4b8d-8648-96609e89926c","D17","BIGC","BIGC.AOS.fish.point.09","2019-10-24T18:47Z","2019-10-24T20:04Z",1,"BIGC.20191024.09.1.e-fisher","SALTRU","Salmo trutta",,29,"actual",,"0000-0001-7072-0706",

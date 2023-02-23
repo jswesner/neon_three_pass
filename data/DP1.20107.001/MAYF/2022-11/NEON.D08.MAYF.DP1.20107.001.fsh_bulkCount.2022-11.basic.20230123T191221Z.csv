@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"858abb32-4b86-4be1-8b9f-aaf1ef755f10","D08","MAYF","MAYF.AOS.fish.point.07","2022-11-17T14:56Z","2022-11-17T16:54Z",1,"MAYF.20221117.07.1.e-fisher","NOTBAI","Notropis baileyi",,17,,,"0000-0003-0910-9523",

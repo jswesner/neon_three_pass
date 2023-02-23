@@ -1,0 +1,159 @@
+This data package was produced by and downloaded from the National Ecological Observatory Network (NEON). NEON is funded by the National Science Foundation (Awards 0653461, 0752017, 1029808, 1138160, 1246537, 1638695, 1638696, 1724433) and managed cooperatively by Battelle. These data are provided under the terms of the NEON data policy at https://www.neonscience.org/data-policy.
+
+DATA PRODUCT INFORMATION
+------------------------
+
+ID: NEON.DOM.SITE.DP1.20107.001
+
+Name: Fish electrofishing, gill netting, and fyke netting counts
+
+Description: Counts of fish from electrofishing surveys in wadeable streams, or electrofishing, gill netting, and/or fyke netting surveys in lakes. Includes fish standard length and individual mass
+
+NEON Science Team Supplier: Aquatic Observation System
+
+Abstract: This data product contains the quality-controlled, native sampling resolution data from NEON's fish sampling. Fish are sampled using a combination of electrofishing, gill-nets and mini-fyke nets. Field technicians identify fish to the lowest practical taxonomic level and then weigh and measure a subset of captured individuals before releasing. Fish that cannot be identified  to species in the field are assigned a morphospecies name and comments on potential identification traits are noted in the comments. In addition at D04 decapod bycatch is collected, identified, tallied, and recorded.  For additional details, see the user guide, protocols, and science design listed in the Documentation section in this data product's details webpage.
+
+Latency:
+The expected time from data and/or sample collection in the field to data publication is as follows, for each of the data tables (in days) in the downloaded data package. See the Data Product User Guide for more information.
+
+fsh_fieldData:  45
+
+fsh_perPass:  45
+
+fsh_perFish:  45
+
+fsh_bulkCount:  45
+
+fsh_invertBycatch: 45
+
+fsh_morphospecies:  390
+
+Brief Design Description: Fish are sampled twice per year at lakes and wadeable stream sites, during spring and fall. 10 fish sampling reaches or segments are established at each site; with 3 fixed reaches sampled during every sampling bout and a random subset of 3 additional reaches or segments selected for sampling each year.
+
+Brief Study Area Description: These data are collected in the fall and spring at all NEON wadeable stream sites except for Como Creek (COMO, not sampled), Martha Creek (MART, sampled Fall only) and McRae Creek (MCRA, sampled Fall only) and at all lake sites except for Suggs Lake (SUGG) and Barco Lake (BARC).
+
+Sensor(s): 
+
+Keywords: material samples, body size, archived samples, fisheries, length, taxonomy, Animalia, aquatic, animals, tissue, weight, fyke net, vertebrates, DNA sequences, archive, invertebrates, littoral, streams, block net, community, species composition, specimens, fish, nearshore, population density, population, Chordata, body mass, FSH, gill net, lakes, DNA barcoding, fin clip, community composition, benthic
+
+
+QUERY INFORMATION
+-----------------
+
+Date-Time for Data Publication: 2022-12-27 04:40 (UTC)
+Start Date-Time for Queried Data: 2022-10-04 17:00 (UTC)
+End Date-Time for Queried Data: 2022-10-05 15:52 (UTC)
+
+Site: PRPO
+Geographic coordinates (lat/long datum): 
+Domain: D09
+
+
+DATA PACKAGE CONTENTS
+---------------------
+
+This folder contains the following documentation files:
+
+- This readme file: NEON.D09.PRPO.DP1.20107.001.readme.20221227T044021Z.txt
+- Term descriptions, data types, and units: NEON.D09.PRPO.DP1.20107.001.variables.20221227T044021Z.csv
+- Data entry validation and parsing rules: NEON.D09.PRPO.DP1.20107.001.validation.20221227T044021Z.csv
+- Machine-readable metadata file describing the data package: NEON.D09.PRPO.DP1.20107.001.EML.20221004-20221005.20221227T044021Z.xml. This file uses the Ecological Metadata Language schema. Learn more about this specification and tools to parse it at https://www.neonscience.org/about/faq.
+- Other related documents, such as engineering specifications, field protocols and data processing documentation, are available. Please visit https://data.neonscience.org/data-products/DP1.20107.001 for more information.
+
+
+This folder also contains 4 data files:
+NEON.D09.PRPO.DP1.20107.001.fsh_perFish.2022-10.basic.20221227T044021Z.csv - Fish sampling field data per specimen captured
+NEON.D09.PRPO.DP1.20107.001.fsh_bulkCount.2022-10.basic.20221227T044021Z.csv - Fish sampling field data bulk count
+NEON.D09.PRPO.DP1.20107.001.fsh_perPass.2022-10.basic.20221227T044021Z.csv - Fish sampling field data per pass
+NEON.D09.PRPO.DP1.20107.001.fsh_fieldData.2022-10.basic.20221227T044021Z.csv - Fish sampling field data per sub-sampling reach
+
+Basic download package definition: The basic download package contains all the measurements.
+
+Expanded download package definition: An expanded download package is not available for this product. All data are in the basic download package.
+
+
+FILE NAMING CONVENTIONS
+-----------------------
+
+NEON data files are named using a series of component abbreviations separated by periods. File naming conventions for NEON data files differ between NEON science teams. A file will have the same name whether it is accessed via NEON's data portal or API. Please visit https://www.neonscience.org/data-formats-conventions for a full description of the naming conventions.
+
+ISSUE LOG
+----------
+
+This log provides a list of issues that were identified during data collection or processing, prior to publication of this data package. For a more recent log, please visit this data product's detail page at https://data.neonscience.org/data-products/DP1.20107.001.
+
+Issue Date: 2022-09-13
+Issue: Toolik Field Station required a quarantine period prior to starting work in the 2020, 2021, and 2022 field seasons to protect all personnel during the COVID-19 pandemic. This complicated NEON field scheduling logistics, which typically involves repeated travel across the state on short time frames. Consequently, NEON reduced staff traveling to Toolik and was thus unable to complete all planned sampling efforts. Missed data collection events are indicated in data records via the samplingImpractical field.
+       Date Range: 2020-03-23 to 2022-12-31
+       Location(s) Affected: OKSR, TOOK
+Resolution Date: 
+Resolution: 
+
+Issue Date: 2022-09-13
+Issue: Severe flooding destroyed several roads into Yellowstone National Park in June 2022, making the YELL and BLDE sites inaccessible to NEON staff. Observational data collection was halted during this time. Canceled data collection events are indicated in data records via the samplingImpractical field.
+       Date Range: 2022-06-12 to 2022-12-31
+       Location(s) Affected: BLDE
+Resolution Date: 
+Resolution: 
+
+Issue Date: 2021-01-06
+Issue: Safety measures to protect personnel during the COVID-19 pandemic resulted in reduced or canceled sampling activities for extended periods at NEON sites. Data availability may be reduced during this time.
+       Date Range: 2020-03-23 to 2021-12-31
+       Location(s) Affected: All
+Resolution Date: 2021-12-31
+Resolution: The primary impact of the pandemic on observational data was reduced data collection. Training procedures and data quality reviews were maintained throughout the pandemic, although some previously in-person training was conducted virtually.  Scheduled measurements and sampling that were not carried out due to COVID-19 or any other causes are indicated in data records via the samplingImpractical data field.
+
+Issue Date: 2021-12-09
+Issue: State-level taxa obfuscation: Prior to the 2022 data release, publication of species identifications were obfuscated to a higher taxonomic rank when the taxon was found to be listed as threatened, endangered, or sensitive at the state level where the observation was recorded. Obfuscating state-listed taxa has created challenges for data users studying biodiversity.
+       Date Range: 2012-01-01 to 2021-12-31
+       Location(s) Affected: All
+Resolution Date: 2021-12-31
+Resolution: The state-level obfuscation routine was removed from the data publication process at all locations excluding sites located in D01 and D20. Data have been reprocessed to remove the obfuscation of state-listed taxa. Federally listed threatened and endangered or sensitive species remain obfuscated at all sites and sensitive species remain redacted at National Park sites.
+
+Issue Date: 2020-10-20
+Issue: Permanent fish barriers: Before January 2021 NEON did not delineate fish caught above or below permanent fish barriers, if the fish barrier bisect a fish sampling transects.
+       Date Range: 2017-04-01 to 2020-12-31
+       Location(s) Affected: MCDI and TECR
+Resolution Date: 2020-12-31
+Resolution: Collect, record, and publish fish data so that individual fish processed are recorded as being either caught or below fish barriers, at those wadeable stream sites where a fish barrier bisects a fish sampling reach.
+
+Issue Date: 2020-10-20
+Issue: D04 Decapods were collected but not identified and enumerated with electrofishing at CUPE and GUIL
+       Date Range: 2017-02-01 to 2019-11-01
+       Location(s) Affected: CUPE and GUIL
+Resolution Date: 2020-10-20
+Resolution: Because of the unique role decapods play in Caribbean oceanic island freshwater system, the fact that electrofishing is a proven survey method for Caribbean freshwater decapods, and that NEON is assured that we can accurately collect decapod data., and make data available to the public.
+
+Issue Date: 2020-12-02
+Issue: Pass Numbers: At lake sites, the pass number 1 was assigned to the first pass in electrofishing, the gill net set, and the fyke net set.  This created logistical problems in creating unique fish voucher specimen numbers and sampleIDs.
+       Date Range: 2016-01-01 to 2018-08-01
+       Location(s) Affected: All Aquatic Sites
+Resolution Date: 2018-08-01
+Resolution: We switched to numbering Fyke net sets pass 4, and gill net sets  pass 5 so that all automatically generated sample IDs are unique
+
+Issue Date: 2020-12-02
+Issue: Number individuals tallied: Bulk count for specific fish taxa caught per transect started after 100 individual fish of that taxa were caught and processed per transect/net set.
+       Date Range: 2016-01-01 to 2017-05-01
+       Location(s) Affected: All Aquatic Sites
+Resolution Date: 2017-05-01
+Resolution: The number of individual fish per taxa, per transect/net set was reduced to 50 individuals.
+
+
+ADDITIONAL INFORMATION
+----------------------
+
+Protection of species of concern: At most sites, taxonomic IDs of species of concern have been 'fuzzed', i.e., reported at a higher taxonomic rank than the raw data, to avoid publishing locations of sensitive species. For a few sites with stricter regulations (e.g., Great Smoky Mountains National Park (GRSM)), records for species of concern are not published. 
+
+Queries for this data product will return data subset to data collected during the date range specified for the tables `fsh_fieldData`, `fsh_perPass`, `fsh_perFish` and `fsh_bulkSampling` and data from all dates for `fsh_morphospecies` and for all dates from D04 for `fsh_invertBycatch`. A record from `fsh_fieldData` may have zero (if sampling is impractical; e.g. the location is dry, ice-covered, etc) or up to 5 child records in `fsh_perPass`, depending on whether the reach is being sampled using multiple electrofishing passes, and/or multiple sampler types. Each record from `fsh_perPass` may have zero (if **targetTaxaPresent** = 'No') or more child records per taxonID in `fsh_perFish` and 0 or more child records in `fsh_bulkCount`, depending on the taxonomic diversity and abundance at the site. Duplicates and/or missing data may exist where protocol and/or data entry aberrations have occurred; users should check data carefully for anomalies before joining tables. Taxonomic IDs of species of concern have been 'fuzzed'; see data package readme files for more information.
+
+NEON DATA POLICY AND CITATION GUIDELINES
+----------------------------------------
+
+A citation statement is available in this data product's detail page at https://data.neonscience.org/data-products/DP1.20107.001. Please visit https://www.neonscience.org/data-policy for more information about NEON's data policy and citation guidelines.
+
+DATA QUALITY AND VERSIONING
+---------------------------
+
+NEON data are initially published with a status of Provisional, in which updates to data and/or processing algorithms will occur on an as-needed basis, and query reproducibility cannot be guaranteed. Once data are published as part of a Data Release, they are no longer provisional, and are associated with a stable DOI. 
+
+To learn more about provisional versus released data, please visit https://www.neonscience.org/data-revisions-releases.

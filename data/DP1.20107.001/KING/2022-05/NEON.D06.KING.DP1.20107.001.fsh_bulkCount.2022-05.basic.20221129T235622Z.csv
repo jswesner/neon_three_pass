@@ -1,0 +1,10 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"6ab87527-856f-4f8e-9e80-587eda44447c","D06","KING","KING.AOS.fish.point.01","2022-05-16T14:03Z","2022-05-16T15:10Z",1,"KING.20220516.01.1.e-fisher","CHRERY","Chrosomus erythrogaster",,107,"estimated",,"0000-0001-7163-2310",
+"5f668219-9468-4cea-8ee2-f5b8feae1bc7","D06","KING","KING.AOS.fish.point.01","2022-05-16T14:03Z","2022-05-16T15:10Z",1,"KING.20220516.01.1.e-fisher","CAMANO","Campostoma anomalum",,125,,,"0000-0001-7163-2310",
+"fa73eb27-fea6-4e66-affd-257ca892586e","D06","KING","KING.AOS.fish.point.01","2022-05-16T14:03Z","2022-05-16T15:10Z",1,"KING.20220516.01.1.e-fisher","ETHSPE","Etheostoma spectabile",,144,"estimated",,"0000-0001-7163-2310",
+"ab0865cb-872c-4618-946a-71150308e2e4","D06","KING","KING.AOS.fish.point.01","2022-05-16T20:30Z","2022-05-16T21:24Z",2,"KING.20220516.01.2.e-fisher","ETHSPE","Etheostoma spectabile",,111,,,"0000-0001-7163-2310",
+"ae9edb05-48f2-4de1-a9bf-7037d2e4de5b","D06","KING","KING.AOS.fish.point.01","2022-05-16T20:30Z","2022-05-16T21:24Z",2,"KING.20220516.01.2.e-fisher","CAMANO","Campostoma anomalum",,99,,,"0000-0001-7163-2310",
+"0f35cfe3-3a40-49e9-9d58-3905c88dbc3b","D06","KING","KING.AOS.fish.point.01","2022-05-16T20:30Z","2022-05-16T21:24Z",2,"KING.20220516.01.2.e-fisher","CHRERY","Chrosomus erythrogaster",,119,,,"0000-0001-7163-2310",
+"491a1371-fed3-47ad-83b4-a0a3c1464384","D06","KING","KING.AOS.fish.point.01","2022-05-16T23:48Z","2022-05-17T00:40Z",3,"KING.20220516.01.3.e-fisher","CAMANO","Campostoma anomalum",,110,,,"0000-0001-7163-2310",
+"07ddeaf3-00f0-4404-9edc-fecf2b347926","D06","KING","KING.AOS.fish.point.01","2022-05-16T23:48Z","2022-05-17T00:40Z",3,"KING.20220516.01.3.e-fisher","ETHSPE","Etheostoma spectabile",,125,,,"0000-0001-7163-2310",
+"26d175ac-165d-4cb9-905f-5803884a5814","D06","KING","KING.AOS.fish.point.01","2022-05-16T23:48Z","2022-05-17T00:40Z",3,"KING.20220516.01.3.e-fisher","CHRERY","Chrosomus erythrogaster",,125,,,"0000-0001-7163-2310",

@@ -1,0 +1,6 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"8eb0463a-40c1-4003-872e-0ca24a3ae046","D11","BLUE","BLUE.AOS.fish.point.02","2017-10-31T14:41Z","2017-10-31T16:45Z",1,"BLUE.20171031.02.1.e-fisher","ETHRAD","Etheostoma radiosum",,21,"actual",,"Lhostert@battelleecology.org",
+"adcf57db-b8cd-4198-b0af-e73d1c5d77e3","D11","BLUE","BLUE.AOS.fish.point.02","2017-10-31T21:14Z","2017-10-31T22:14Z",2,"BLUE.20171031.02.2.e-fisher","PIMSP","Pimephales sp.","D11.BLUE.2017.MorphD",10,"actual",,"Lhostert@battelleecology.org",
+"97e9c0c7-5404-4b50-86d0-0613a7f424e5","D11","BLUE","BLUE.AOS.fish.point.02","2017-10-31T21:14Z","2017-10-31T22:14Z",2,"BLUE.20171031.02.2.e-fisher","ETHRAD","Etheostoma radiosum",,48,"actual",,"Lhostert@battelleecology.org",
+"71edebc8-0221-444f-a05c-874a08e8db8f","D11","BLUE","BLUE.AOS.fish.point.02","2017-10-31T23:28Z","2017-10-31T23:54Z",3,"BLUE.20171031.02.3.e-fisher","ETHRAD","Etheostoma radiosum",,15,"actual",,"Lhostert@battelleecology.org",
+"74b6c2d2-2949-4024-9e3b-4b5d6798ea3a","D11","BLUE","BLUE.AOS.fish.point.02","2017-10-31T23:28Z","2017-10-31T23:54Z",3,"BLUE.20171031.02.3.e-fisher","PIMSP","Pimephales sp.","D11.BLUE.2017.MorphD",20,"actual",,"Lhostert@battelleecology.org",

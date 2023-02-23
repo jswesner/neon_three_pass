@@ -1,0 +1,91 @@
+uid,domainID,siteID,namedLocation,collectDate,measuringMethod,widthMeasurementNumber,wettedWidth,remarks
+"f5f73c57-59fd-417e-90a5-08ff6772d084","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",13,24.60,"UC RB"
+"9f3b33c9-c94a-463a-96ca-5ed57811919b","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",14,25.20,
+"f3b7fcbd-2393-4b8c-802d-949bfa299f3a","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",2,21.80,"Undercut LB RB"
+"11b4524d-fe82-4714-842a-2d20caccdd2b","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",8,27.90,
+"bf025ac1-18de-47e6-89c8-69f6ee71bb13","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",21,22.10,"UC LB"
+"101c622b-39b6-4777-a4bd-e74eda8ab6d6","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",3,22.30,"Undercut RB"
+"44cd172f-edb3-4e03-9904-f25861155f93","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",7,22.90,"Split"
+"72fbb527-00d3-4f11-8dd1-327d82f8395e","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",22,20.90,
+"462296ea-b324-4274-9248-0a963966a3f3","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",20,26.40,
+"a7e97db1-c460-4282-a2b3-0532570a885d","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",10,27.90,"Split"
+"be216b53-8ec2-42fd-a146-3647e7e8b457","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",27,25.60,"UC RB"
+"4b665c82-46d4-4810-af2f-eeda07d4eda6","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",6,23.30,"UC RB"
+"e5f23673-f683-4628-9c8b-abd8226ae601","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",30,29.30,"UC LB"
+"5128e1d3-a39e-4899-8fbe-16eed9910ddb","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",5,23.60,
+"4556358a-42a3-413f-9bb6-b25ebb73a8cb","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",26,25.20,
+"ccfc5c63-2071-4b30-a760-2c2c6a1020b1","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",24,23.90,
+"21581104-5f08-4a14-a7f5-4c6bac9435cc","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",11,26.30,
+"0c88e5c9-2156-4d3e-bde4-18eed28a3c34","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",17,24.50,
+"51778d85-9897-4549-8d80-6b31b7609f8d","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",4,22.20,"UC RB"
+"8ae3f34a-e5de-4725-84c3-c224d5f64762","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",25,25.10,"UC RB"
+"61f429d9-b39b-431a-870d-a56dd8b21df4","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",19,25.60,
+"ce36bf7b-7678-4a1c-a15b-121b617601a6","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",1,20.70,
+"76d672a0-ba54-4790-8cde-8c71dcbdb411","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",23,21.70,"UC RB"
+"a891a761-a9e9-4e6d-8466-8dec969c3bc8","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",15,22.40,
+"fe4d878c-5fa6-434d-9356-c3d094acff92","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",18,28.40,
+"30ab5083-910e-40dd-b93d-1939bf8d634f","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",9,30.20,
+"99c65881-ab0d-46cf-96b3-d69c61a621ec","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",28,24.10,
+"78cb236a-a928-40d1-b29d-caa6490357da","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",16,22.70,
+"e460da6c-cb1d-48c9-9907-9217a326a1b7","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",29,19.30,
+"d42948c4-060a-4993-9dce-a4b21229fdd4","D11","BLUE","BLUE","2021-08-02T19:00Z","Laser Rangefinder",12,23.40,
+"0971a33b-1656-4852-ab37-2870807caeb4","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",4,23.90,
+"4a5cacbd-00ef-447b-8bbb-5ab70bb44513","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",3,15.10,
+"5c54d6c6-aa1c-48c3-9490-abb16cfb650e","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",20,24.40,
+"f16ee10d-41f9-41f9-8a14-954b3797d3fb","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",6,22.40,"LB undercut"
+"1d1390ac-17d1-42cf-ab9a-baefe7a78863","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",1,30.20,
+"18870296-9b06-4289-bab4-db26056b2eff","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",12,22.70,
+"c9d50990-6eb3-4d6c-a8cf-df4d58a8f3e8","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",17,27.90,"LB RB UC"
+"7f1ddcb9-e7df-4a75-9641-7f702abba7df","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",9,25.50,
+"22fef75e-f9aa-4445-851b-470e246eea41","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",30,21.70,
+"688f4967-b9a7-4fd4-801c-fc4f25dd62da","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",22,24.80,
+"49f7768a-b0bf-4468-bead-f075bcea02a6","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",14,21.90,
+"12f13101-953f-4e52-8f34-4d0857dea3d3","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",2,28.30,
+"d42148ce-1ff8-46cf-bda4-860b2663b174","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",26,25.80,
+"ae70a22b-ffce-4bcc-9847-1a78565db8d1","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",27,23.90,"RB UC"
+"6b27af0f-964d-4f5b-8d16-d3e6d88e1b4b","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",25,26.20,"Split stream 10.9 15.3"
+"cbd4b3ef-868f-48f2-8832-5ea761ea37f8","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",28,21.20,
+"2beaa6e0-d101-4cf2-81ef-b6dd9d0c47cb","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",21,24.90,"RB UC"
+"ba388c4d-d770-4a98-b56e-4fb54088dd13","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",18,23.40,
+"30602cef-43a9-416d-a8bc-3cc60838c040","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",5,20.30,
+"1f463408-8311-4c8c-a152-85a6eafd7261","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",7,25.20,
+"87c816ba-4527-4593-bd43-b6367dfe065f","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",16,25.50,
+"e84c5065-d2ba-4b58-8ac2-37a442574c8b","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",11,24.80,
+"cd5ad58f-076d-4402-b4ac-741c14f9f0bb","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",15,26.20,
+"b908f5fe-20d9-48a2-aede-0f6b69eb8dc9","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",8,23.20,"RB UC"
+"e8c32b79-83b2-4d22-91de-84a104a17645","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",19,22.40,"RB UC"
+"09ff8a8e-5e8c-41e9-96ad-dc3081bf74ff","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",29,22.70,
+"4aa1d172-1410-4808-918f-29ece9e83ea6","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",10,24.90,"RB UC"
+"34602bce-e4b9-4f76-bd16-5eaed869b28e","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",13,21.50,
+"66838245-43f6-48ff-977d-fdc1be8d2d85","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",23,28.40,
+"90fa0ea8-f23b-41b3-9b48-e5e4652d7f05","D11","BLUE","BLUE","2021-08-18T18:05Z","Laser Rangefinder",24,29.40,
+"8bffc5e8-42eb-4194-8429-d22a2e613db3","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",7,24.50,"UCRB"
+"f2b59651-0db2-4be6-8c0f-ff359f7d6278","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",30,19.20,
+"77b55e20-1101-4b06-9b03-fd14c8d1be3d","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",29,21.20,
+"7045644c-be1b-47a4-8f04-7fdbf586c41d","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",11,21.60,
+"484a421b-5d77-4cdd-8226-6fdcc97d7b2b","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",25,24.00,
+"2b78b35e-e38b-4767-9ff2-ab30e8161ba1","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",6,24.00,
+"2f3b4260-52f5-4a52-bd4d-ebd44b3b1e87","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",16,22.40,
+"53485c4c-ff02-4a55-a2f7-cf15b02818ac","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",3,14.80,"UCLB"
+"4ff96195-bff0-42dc-b914-11e91734a3b8","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",2,23.90,"UCLB"
+"aeecc0f3-af32-4058-aae8-9c87fb7c2ed0","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",9,24.80,
+"12cf3852-50f5-42f9-82ca-17661690c765","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",10,21.90,
+"f0694fef-83bd-44a7-a056-9c7fa7889b95","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",28,21.10,
+"d0164eed-9894-4f30-9120-d3b52f5e4fd0","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",27,21.60,
+"fab913fa-eacc-4fef-b3bf-d7f5ba371157","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",19,26.60,
+"46d4c1d2-eea2-4c86-bf6c-2290b06da00b","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",24,23.50,
+"30fbbc25-2490-4c86-8eef-a973a5a51a36","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",1,29.10,
+"f53484cb-d50a-4d9e-a52a-1e7f303ba959","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",8,25.40,
+"db3fc516-c065-470e-a616-712dfb99b0ac","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",12,22.30,
+"c365d610-36c4-4dd6-99b6-d8c8f286142d","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",4,25.30,
+"26b292a5-53fd-4265-a370-ea94b34997a9","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",26,21.80,
+"8f847bb4-d318-4d0a-881c-c43df06e5d44","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",15,24.30,"UCRB"
+"6a465f6b-4927-4ecc-bfc1-9ec76ec8d760","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",23,24.50,
+"e4200cd9-dc53-493c-8196-6beba9f1196e","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",22,25.30,"Split channel"
+"7b2e9df1-1ff4-44a0-8e98-f62fadce81c7","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",5,21.50,
+"e168d8e1-7d20-4085-8b4d-7b8c7aa3f447","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",21,28.70,
+"e0d8cc6e-2046-4a1c-ae0e-30d1e3c9d5b7","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",18,24.20,
+"9e46455a-4b38-4b68-ba37-007e152de5cd","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",14,27.50,
+"75576883-0a9c-4f90-a302-619631bd10e5","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",20,31.00,
+"31a491b2-dcab-4ad4-8f4d-a5039b884cab","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",13,26.40,
+"208900c6-6c1e-4c66-af5a-78e33c8ce948","D11","BLUE","BLUE","2021-08-31T16:21Z","Laser Rangefinder",17,24.70,

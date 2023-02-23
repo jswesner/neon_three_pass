@@ -1,0 +1,7 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"9fa14427-ce67-42f4-93d1-1479ae57a688","D05","CRAM","CRAM.AOS.riparian.point.06","2016-08-30T17:00Z","2016-08-30T17:00Z",3,"CRAM.20160830.06.3.e-fisher","LEPSP4","Lepomis sp.",,43,"actual",,"jhudson@battelleecology.org",
+"c2cde05a-d789-415b-9e1d-6d9d1f3a06f9","D05","CRAM","CRAM.AOS.riparian.point.06","2016-08-30T17:00Z","2016-08-30T17:00Z",2,"CRAM.20160830.06.2.e-fisher","LEPSP4","Lepomis sp.",,67,"actual",,"jhudson@battelleecology.org",
+"8c982229-3974-4455-bef6-8c7766a953e0","D05","CRAM","CRAM.AOS.riparian.point.03","2016-08-30T21:15Z","2016-08-31T19:10Z",1,"CRAM.20160830.03.1.fyke","LEPMAC","Lepomis macrochirus",,83,"actual",,"jhudson@battelleecology.org",
+"f4294afc-f179-4e90-a13b-8d2a547b4310","D05","CRAM","CRAM.AOS.riparian.point.03","2016-08-30T21:15Z","2016-08-31T19:10Z",1,"CRAM.20160830.03.1.fyke","LEPSP4","Lepomis sp.",,63,"actual",,"jhudson@battelleecology.org",
+"c11749b8-84b8-4e2f-81b3-457bca3ff2fc","D05","CRAM","CRAM.AOS.riparian.point.06","2016-08-31T02:54Z","2016-08-31T03:02Z",1,"CRAM.20160830.06.1.e-fisher","LEPSP4","Lepomis sp.",,42,"actual",,"jhudson@battelleecology.org",
+"934f38c6-c154-4969-b36a-45c9432047c2","D05","CRAM","CRAM.AOS.riparian.point.10","2016-08-31T17:00Z","2016-08-31T17:00Z",3,"CRAM.20160831.10.3.e-fisher","LEPSP4","Lepomis sp.",,65,"actual",,"jhudson@battelleecology.org",

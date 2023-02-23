@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"6da7f558-2282-40b0-a9f2-1007d0223981","D10","ARIK","ARIK.AOS.fish.point.01","2018-04-02T19:30Z","2018-04-02T19:44Z",2,"ARIK.20180402.01.2.e-fisher","ETHEXI","Etheostoma exile",,5,"actual",,"Hschartel@battelleecology.org",
+"31e96351-e55a-49ee-802b-0bccb04afa24","D10","ARIK","ARIK.AOS.fish.point.01","2018-04-02T20:24Z","2018-04-02T20:38Z",3,"ARIK.20180402.01.3.e-fisher","ETHEXI","Etheostoma exile",,8,"actual","cf. species","Hschartel@battelleecology.org",
+"64dde8fb-8298-4a40-a5e6-8bb5238cd7c4","D10","ARIK","ARIK.AOS.fish.point.09","2018-04-04T17:15Z","2018-04-04T17:35Z",2,"ARIK.20180404.09.2.e-fisher","ETHEXI","Etheostoma exile",,1,"actual",,"Hschartel@battelleecology.org",
+"a5cd6ff3-619d-4830-b860-d79b4a76ff93","D10","ARIK","ARIK.AOS.fish.point.09","2018-04-04T18:23Z","2018-04-04T18:47Z",3,"ARIK.20180404.09.3.e-fisher","ETHEXI","Etheostoma exile",,8,"actual",,"Hschartel@battelleecology.org",

@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"d415c062-819f-4ca9-b595-54e4c5d6da0a","D02","POSE","POSE.AOS.fish.point.02","2022-10-31T12:20Z","2022-10-31T13:10Z",1,"POSE.20221031.02.1.e-fisher","RHIATR","Rhinichthys atratulus",,1,"actual",,"0000-0001-7904-875X",

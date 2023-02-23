@@ -1,0 +1,7 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"68178580-d356-45c4-bb8a-d9ada406c391","D06","KING","KING.AOS.fish.point.01","2020-06-18T13:56Z","2020-06-18T14:24Z",1,"KING.20200618.01.1.e-fisher","ETHSPE","Etheostoma spectabile",,62,"actual",,"0000-0001-9594-9689",
+"a93067f2-b450-4362-92ff-2ce4bd08ca49","D06","KING","KING.AOS.fish.point.01","2020-06-18T16:00Z","2020-06-18T16:25Z",2,"KING.20200618.01.2.e-fisher","CHRERY","Chrosomus erythrogaster",,11,"actual",,"0000-0001-9594-9689",
+"567559fb-2b97-4413-831a-c6aced6c85f2","D06","KING","KING.AOS.fish.point.01","2020-06-18T16:00Z","2020-06-18T16:25Z",2,"KING.20200618.01.2.e-fisher","ETHSPE","Etheostoma spectabile",,88,"actual",,"0000-0001-9594-9689",
+"5a2c8d2c-e65c-4083-84d6-b0231cfc107e","D06","KING","KING.AOS.fish.point.01","2020-06-18T18:00Z","2020-06-18T18:24Z",3,"KING.20200618.01.3.e-fisher","CAMANO","Campostoma anomalum",,5,"actual",,"0000-0001-9594-9689",
+"16319542-d8c8-4dfb-8f12-54ad7c8aac35","D06","KING","KING.AOS.fish.point.01","2020-06-18T18:00Z","2020-06-18T18:24Z",3,"KING.20200618.01.3.e-fisher","CHRERY","Chrosomus erythrogaster",,11,"actual",,"0000-0001-9594-9689",
+"8e96f687-95a0-4460-bec7-1e1891b44698","D06","KING","KING.AOS.fish.point.01","2020-06-18T18:00Z","2020-06-18T18:24Z",3,"KING.20200618.01.3.e-fisher","ETHSPE","Etheostoma spectabile",,52,"actual",,"0000-0001-9594-9689",

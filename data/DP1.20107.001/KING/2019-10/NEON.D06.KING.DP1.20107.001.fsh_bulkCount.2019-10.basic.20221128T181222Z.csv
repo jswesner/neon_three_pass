@@ -1,0 +1,7 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"a27f9025-2366-44b0-99dd-0893be106825","D06","KING","KING.AOS.fish.point.01","2019-10-21T15:13Z","2019-10-21T15:38Z",1,"KING.20191021.01.1.e-fisher","CHRERY","Chrosomus erythrogaster",,101,"actual",,"0000-0001-9594-9689",
+"626ec275-8d07-4dee-97db-5e80dd3ecbdd","D06","KING","KING.AOS.fish.point.01","2019-10-21T16:45Z","2019-10-21T17:04Z",2,"KING.20191021.01.2.e-fisher","CHRERY","Chrosomus erythrogaster",,159,"actual",,"0000-0001-9594-9689",
+"b4896c71-762e-4d63-9807-1d52ee0d2d57","D06","KING","KING.AOS.fish.point.01","2019-10-21T16:45Z","2019-10-21T17:04Z",2,"KING.20191021.01.2.e-fisher","ETHSPE","Etheostoma spectabile",,3,"actual",,"0000-0001-9594-9689","Accidentally dropped into the post processing bucket"
+"b508735d-6f75-4fed-bad9-1049cf351694","D06","KING","KING.AOS.fish.point.01","2019-10-21T18:10Z","2019-10-21T18:31Z",3,"KING.20191021.01.3.e-fisher","ETHSPE","Etheostoma spectabile",,10,"actual",,"0000-0001-9594-9689",
+"2608570a-ef36-45e3-a443-56004be96b46","D06","KING","KING.AOS.fish.point.01","2019-10-21T18:10Z","2019-10-21T18:31Z",3,"KING.20191021.01.3.e-fisher","CHRERY","Chrosomus erythrogaster",,99,"actual",,"0000-0001-9594-9689",
+"4fb15d7b-67a6-463a-8c8e-2ad44734d2dc","D06","KING","KING.AOS.fish.point.02","2019-10-22T14:15Z","2019-10-22T14:42Z",1,"KING.20191022.02.1.e-fisher","CHRERY","Chrosomus erythrogaster",,132,"actual",,"0000-0001-9594-9689",

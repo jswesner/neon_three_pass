@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"311e3cf8-f3eb-4386-9fdc-da2c0f33f566","D02","POSE","POSE.AOS.fish.point.05","2019-04-09T16:18Z","2019-04-09T17:17Z",1,"POSE.20190409.05.1.e-fisher","RHIATR","Rhinichthys atratulus",,15,"actual",,"0000-0003-3114-5862",
+"df66c7c0-ab95-4977-b43c-1beeaf8192bb","D02","POSE","POSE.AOS.fish.point.07","2019-04-10T13:03Z","2019-04-10T13:56Z",1,"POSE.20190410.07.1.e-fisher","RHIATR","Rhinichthys atratulus",,13,"actual",,"0000-0003-3114-5862",
+"0d489c86-83bc-4855-b041-3248e6ba9b9c","D02","POSE","POSE.AOS.fish.point.07","2019-04-10T14:44Z","2019-04-10T15:45Z",2,"POSE.20190410.07.2.e-fisher","RHIATR","Rhinichthys atratulus",,29,"actual",,"0000-0003-3114-5862","One fish found cut in half"
+"19bc6bc7-0c1f-4587-8d25-cbcf4331118c","D02","POSE","POSE.AOS.fish.point.07","2019-04-10T14:44Z","2019-04-10T15:45Z",2,"POSE.20190410.07.2.e-fisher","COTBAI1","Cottus bairdii",,22,"actual",,"0000-0003-3114-5862",
+"31c7a7ee-a7dc-4393-a516-3e3a53fd6187","D02","POSE","POSE.AOS.fish.point.07","2019-04-10T16:41Z","2019-04-10T17:20Z",3,"POSE.20190410.07.3.e-fisher","COTBAI1","Cottus bairdii",,28,"actual",,"0000-0003-3114-5862",
+"25cbc226-518c-4985-99c6-6fe5351e7a79","D02","POSE","POSE.AOS.fish.point.07","2019-04-10T16:41Z","2019-04-10T17:20Z",3,"POSE.20190410.07.3.e-fisher","RHIATR","Rhinichthys atratulus",,12,"actual",,"0000-0003-3114-5862",
+"3657f843-b263-4bb3-a69e-3858d840c30d","D02","POSE","POSE.AOS.fish.point.09","2019-04-11T14:45Z","2019-04-11T15:21Z",2,"POSE.20190411.09.2.e-fisher","RHIATR","Rhinichthys atratulus",,24,"actual",,"0000-0003-3114-5862",
+"76273d0b-cb1d-445b-932d-5bdd2925526f","D02","POSE","POSE.AOS.fish.point.09","2019-04-11T16:11Z","2019-04-11T16:46Z",3,"POSE.20190411.09.3.e-fisher","RHIATR","Rhinichthys atratulus",,10,"actual",,"0000-0003-3114-5862",

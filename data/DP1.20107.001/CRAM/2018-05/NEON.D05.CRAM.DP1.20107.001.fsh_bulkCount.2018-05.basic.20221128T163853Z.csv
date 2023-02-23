@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"efac640c-d2c6-4955-b1fd-1492ba58df0d","D05","CRAM","CRAM.AOS.riparian.point.01","2018-05-30T00:27Z","2018-05-30T18:50Z",1,"CRAM.20180529.01.1.fyke","LEPMAC","Lepomis macrochirus",,247,"actual",,"jbuza@battelleecology.org","One mortality added to perFish"
+"1e1d5de3-7fd4-4415-b88f-3a4197618b70","D05","CRAM","CRAM.AOS.riparian.point.08","2018-05-31T00:36Z","2018-05-31T18:44Z",1,"CRAM.20180530.08.1.fyke","LEPMAC","Lepomis macrochirus",,218,"actual",,"jbuza@battelleecology.org","One mortality added to perFish"
+"04caa027-f3e7-4458-b016-560346c0c53e","D05","CRAM","CRAM.AOS.riparian.point.08","2018-05-31T00:36Z","2018-05-31T18:44Z",1,"CRAM.20180530.08.1.fyke","PERFLA","Perca flavescens",,71,"actual",,"jbuza@battelleecology.org",
+"f8c2aea1-7b00-4ae6-80aa-c68410b4387e","D05","CRAM","CRAM.AOS.riparian.point.10","2018-05-31T00:57Z","2018-05-31T19:52Z",1,"CRAM.20180530.10.1.fyke","LEPMAC","Lepomis macrochirus",,61,"actual",,"jbuza@battelleecology.org",

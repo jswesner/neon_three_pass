@@ -1,0 +1,11 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"3fcabfa5-aa30-486d-9f56-4f490b422136","D11","PRIN","PRIN.AOS.fish.point.01","2020-03-09T18:00Z","2020-03-09T18:32Z",1,"PRIN.20200309.01.1.e-fisher","GAMAFF","Gambusia affinis",,52,"actual",,"0000-0002-2086-5736",
+"5322ff3d-507b-4bd6-8bd8-bdf27bbeb7e5","D11","PRIN","PRIN.AOS.fish.point.03","2020-03-10T16:35Z","2020-03-10T17:01Z",2,"PRIN.20200310.03.2.e-fisher","GAMAFF","Gambusia affinis",,31,"actual",,"0000-0002-1844-4553",
+"ab19078d-0ff5-437d-b3da-3d94db37a114","D11","PRIN","PRIN.AOS.fish.point.03","2020-03-10T18:05Z","2020-03-10T18:30Z",3,"PRIN.20200310.03.3.e-fisher","GAMAFF","Gambusia affinis",,24,"actual",,"0000-0002-1844-4553",
+"6136e191-ed12-4de4-9a61-856114eca5c9","D11","PRIN","PRIN.AOS.fish.point.04","2020-03-10T19:32Z","2020-03-10T20:30Z",1,"PRIN.20200310.04.1.e-fisher","GAMAFF","Gambusia affinis",,68,"actual",,"0000-0002-1844-4553",
+"9d79c148-9ddc-4e77-a79c-0729c9f3c5bb","D11","PRIN","PRIN.AOS.fish.point.10","2020-03-11T17:30Z","2020-03-11T17:49Z",2,"PRIN.20200311.10.2.e-fisher","GAMAFF","Gambusia affinis",,14,"actual",,"0000-0002-1844-4553",
+"b2425043-d3eb-4743-bbb0-052463fd11f8","D11","PRIN","PRIN.AOS.fish.point.10","2020-03-11T18:24Z","2020-03-11T18:43Z",3,"PRIN.20200311.10.3.e-fisher","GAMAFF","Gambusia affinis",,17,"actual",,"0000-0002-1844-4553",
+"e7e5dc60-37c0-41b2-94ed-95893dceba84","D11","PRIN","PRIN.AOS.fish.point.07","2020-03-12T15:35Z","2020-03-12T16:04Z",1,"PRIN.20200312.07.1.e-fisher","GAMAFF","Gambusia affinis",,9,"actual",,"0000-0002-1844-4553",
+"e0959d3e-02cb-4ddc-8820-e318636f96b0","D11","PRIN","PRIN.AOS.fish.point.07","2020-03-12T17:27Z","2020-03-12T17:59Z",2,"PRIN.20200312.07.2.e-fisher","GAMAFF","Gambusia affinis",,60,"actual",,"0000-0002-1844-4553",
+"f949a7a9-80cc-45be-a18a-12a85abee297","D11","PRIN","PRIN.AOS.fish.point.07","2020-03-12T18:47Z","2020-03-12T19:19Z",3,"PRIN.20200312.07.3.e-fisher","GAMAFF","Gambusia affinis",,39,"actual",,"0000-0002-1844-4553",
+"4b40a784-9e18-4fb5-ab37-473fc96e7326","D11","PRIN","PRIN.AOS.fish.point.09","2020-03-12T20:24Z","2020-03-12T20:49Z",1,"PRIN.20200312.09.1.e-fisher","GAMAFF","Gambusia affinis",,30,"actual",,"0000-0002-1844-4553",

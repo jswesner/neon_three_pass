@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"43ae632e-93eb-47c1-8190-8e27c15e929c","D05","LIRO","LIRO.AOS.riparian.point.07","2017-05-11T02:09Z","2017-05-11T02:30Z",1,"LIRO.20170510.07.1.e-fisher","UMBLIM","Umbra limi",,2,"actual",,"jhudson@battelleecology.org","lost fish"

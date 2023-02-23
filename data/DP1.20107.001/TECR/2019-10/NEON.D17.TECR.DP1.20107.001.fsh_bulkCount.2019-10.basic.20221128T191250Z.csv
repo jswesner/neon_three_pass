@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"8563d420-e95e-4298-9cd8-e41cc7eb18c2","D17","TECR","TECR.AOS.fish.point.07","2019-10-16T20:45Z","2019-10-16T22:01Z",1,"TECR.20191016.07.1.e-fisher","SALFON","Salvelinus fontinalis",,56,"actual",,"0000-0002-5454-7533",
+"9c42d7ef-8b8c-4aa1-a4de-51e48c21a407","D17","TECR","TECR.AOS.fish.point.09","2019-10-17T17:32Z","2019-10-17T19:20Z",1,"TECR.20191017.09.1.e-fisher","SALFON","Salvelinus fontinalis",,8,"actual",,"0000-0002-5454-7533",

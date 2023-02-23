@@ -1,0 +1,7 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"9a1cd550-e2aa-4b82-9da6-3d04c8507b42","D14","SYCA","SYCA.AOS.fish.point.02","2020-02-03T21:20Z","2020-02-03T22:34Z",1,"SYCA.20200203.02.1.e-fisher","CYPSPP3","Cyprinidae spp.",,62,"actual",,"0000-0001-8362-7797",
+"ceb678c0-d8d1-441e-8c1c-f39e8a69d3dc","D14","SYCA","SYCA.AOS.fish.point.06","2020-02-05T15:58Z","2020-02-05T16:35Z",1,"SYCA.20200205.06.1.e-fisher","CYPSPP3","Cyprinidae spp.",,59,"actual",,"0000-0001-8362-7797",
+"442c16a8-af9c-4d07-b482-da0091beba24","D14","SYCA","SYCA.AOS.fish.point.06","2020-02-05T19:06Z","2020-02-05T19:49Z",3,"SYCA.20200205.06.3.e-fisher","CYPSPP3","Cyprinidae spp.",,61,"actual",,"0000-0001-8362-7797",
+"5b559c09-1bfd-42cb-9098-b7822cf3b2b6","D14","SYCA","SYCA.AOS.fish.point.10","2020-02-06T15:19Z","2020-02-06T16:45Z",1,"SYCA.20200206.10.1.e-fisher","CYPSPP3","Cyprinidae spp.",,76,"actual",,"0000-0001-8362-7797",
+"ac919517-1896-4611-a5aa-4e83d9b75fc6","D14","SYCA","SYCA.AOS.fish.point.10","2020-02-06T18:00Z","2020-02-07T06:51Z",2,"SYCA.20200206.10.2.e-fisher","CYPSPP3","Cyprinidae spp.",,36,,,"0000-0001-8362-7797",
+"c5119c6d-0371-40cf-b486-774ef369b86a","D14","SYCA","SYCA.AOS.fish.point.10","2020-02-06T19:46Z","2020-02-06T20:39Z",3,"SYCA.20200206.10.3.e-fisher","CYPSPP3","Cyprinidae spp.",,10,"actual",,"0000-0001-8362-7797",

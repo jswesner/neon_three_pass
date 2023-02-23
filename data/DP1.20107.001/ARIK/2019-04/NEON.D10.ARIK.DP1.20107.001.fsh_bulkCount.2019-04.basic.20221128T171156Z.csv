@@ -1,0 +1,7 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"2ffda0e6-4a57-48a4-8bae-e30ec20a4626","D10","ARIK","ARIK.AOS.fish.point.01","2019-04-09T16:28Z","2019-04-09T16:41Z",2,"ARIK.20190409.01.2.e-fisher","ETHSPE","Etheostoma spectabile",,13,,,"0000-0002-8159-7966",
+"5570e003-f793-45c1-9296-f65926c1c8c3","D10","ARIK","ARIK.AOS.fish.point.01","2019-04-09T17:15Z","2019-04-09T17:21Z",3,"ARIK.20190409.01.3.e-fisher","ETHSPE","Etheostoma spectabile",,21,,,"0000-0002-8159-7966",
+"331635ea-94fc-4622-ae17-1a5fa807caf3","D10","ARIK","ARIK.AOS.fish.point.06","2019-04-10T14:10Z","2019-04-10T14:30Z",1,"ARIK.20190410.06.1.e-fisher","ETHSPE","Etheostoma spectabile",,37,,,"0000-0002-5760-9269",
+"2b379806-9f0b-403b-9709-258aada627ac","D10","ARIK","ARIK.AOS.fish.point.06","2019-04-10T15:29Z","2019-04-10T15:45Z",2,"ARIK.20190410.06.2.e-fisher","ETHSPE","Etheostoma spectabile",,63,,,"0000-0002-5760-9269",
+"931a9d25-c83f-45ca-b851-086b4d1e0f4e","D10","ARIK","ARIK.AOS.fish.point.06","2019-04-10T16:08Z","2019-04-10T16:24Z",3,"ARIK.20190410.06.3.e-fisher","ETHSPE","Etheostoma spectabile",,29,,,"0000-0002-5760-9269",
+"4bfa99aa-bc1f-48c1-9be7-2756e1891baf","D10","ARIK","ARIK.AOS.fish.point.09","2019-04-10T17:00Z","2019-04-10T17:28Z",1,"ARIK.20190410.09.1.e-fisher","ETHSPE","Etheostoma spectabile",,18,"actual",,"0000-0002-5760-9269",

@@ -1,0 +1,11 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"d6ff5428-2bb7-4e89-ab2c-21c9712b48b0","D02","LEWI","LEWI.AOS.fish.point.01","2021-04-12T12:43Z","2021-04-12T13:27Z",1,"LEWI.20210412.01.1.e-fisher","COTGIR","Cottus girardi",,94,"actual",,"0000-0003-3114-5862",
+"c1c2ba74-1774-41df-92a3-f6bf3cfb5cf2","D02","LEWI","LEWI.AOS.fish.point.01","2021-04-12T14:28Z","2021-04-12T15:48Z",2,"LEWI.20210412.01.2.e-fisher","COTGIR","Cottus girardi",,110,"actual",,"0000-0003-3114-5862",
+"4d0d5da4-b3bf-447c-b9cc-87adfc82c581","D02","LEWI","LEWI.AOS.fish.point.01","2021-04-12T16:47Z","2021-04-12T17:23Z",3,"LEWI.20210412.01.3.e-fisher","COTGIR","Cottus girardi",,67,"actual",,"0000-0003-3114-5862",
+"e3ed4be8-f1fb-4d71-a08a-8cc7bcd62b37","D02","LEWI","LEWI.AOS.fish.point.04","2021-04-13T12:32Z","2021-04-13T13:29Z",1,"LEWI.20210413.04.1.e-fisher","COTGIR","Cottus girardi",,40,"actual",,"0000-0003-3114-5862",
+"035a7ed1-a28a-49ed-866b-8b19a850cdc1","D02","LEWI","LEWI.AOS.fish.point.04","2021-04-13T14:47Z","2021-04-13T15:43Z",2,"LEWI.20210413.04.2.e-fisher","COTGIR","Cottus girardi",,89,"actual",,"0000-0003-3114-5862",
+"e6323ac9-217c-4937-ac43-64340daeb698","D02","LEWI","LEWI.AOS.fish.point.04","2021-04-13T16:28Z","2021-04-13T17:15Z",3,"LEWI.20210413.04.3.e-fisher","COTGIR","Cottus girardi",,63,"actual",,"0000-0003-3114-5862",
+"ac9a095c-e951-4375-a227-d1af20ad7e66","D02","LEWI","LEWI.AOS.fish.point.09","2021-04-15T13:36Z","2021-04-15T14:08Z",2,"LEWI.20210415.09.2.e-fisher","RHIATR","Rhinichthys atratulus",,4,"actual",,"0000-0003-3114-5862",
+"e9206ff7-e432-4d1d-9310-52acde9a0021","D02","LEWI","LEWI.AOS.fish.point.09","2021-04-15T13:36Z","2021-04-15T14:08Z",2,"LEWI.20210415.09.2.e-fisher","COTGIR","Cottus girardi",,1,"actual",,"0000-0003-3114-5862",
+"8c49eea1-b0ec-459a-b38c-b14be647be6c","D02","LEWI","LEWI.AOS.fish.point.09","2021-04-15T14:27Z","2021-04-15T15:00Z",3,"LEWI.20210415.09.3.e-fisher","RHIATR","Rhinichthys atratulus",,9,"actual",,"0000-0003-3114-5862",
+"1de24d25-fdf3-47f3-8a51-b6c6dfdbd282","D02","LEWI","LEWI.AOS.fish.point.09","2021-04-15T14:27Z","2021-04-15T15:00Z",3,"LEWI.20210415.09.3.e-fisher","COTGIR","Cottus girardi",,14,"actual",,"0000-0003-3114-5862",

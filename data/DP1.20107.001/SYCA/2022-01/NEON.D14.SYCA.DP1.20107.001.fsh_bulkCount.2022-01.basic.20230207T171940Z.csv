@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"035db983-4216-446c-92c6-1b1313d06f41","D14","SYCA","SYCA.AOS.fish.point.01","2022-01-31T20:28Z","2022-01-31T22:45Z",1,"SYCA.20220131.01.1.e-fisher","AGOCHR","Agosia chrysogaster",,4,"actual",,"0000-0002-8929-7933",

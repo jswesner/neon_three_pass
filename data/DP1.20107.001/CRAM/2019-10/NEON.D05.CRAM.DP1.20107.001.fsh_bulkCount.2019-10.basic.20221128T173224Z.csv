@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"f9f3b44b-0d2b-429c-bc9b-454e1481f3db","D05","CRAM","CRAM.AOS.riparian.point.06","2019-10-09T23:37Z","2019-10-10T15:59Z",4,"CRAM.20191009.06.4.fyke","LEPMAC","Lepomis macrochirus",,74,"actual",,"0000-0003-1075-1249",

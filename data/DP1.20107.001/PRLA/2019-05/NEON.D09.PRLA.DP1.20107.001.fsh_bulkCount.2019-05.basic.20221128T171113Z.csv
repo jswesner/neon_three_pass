@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"ea244525-4659-4465-9361-654e80ae3367","D09","PRLA","PRLA.AOS.riparian.point.04","2019-05-16T02:15Z","2019-05-16T14:36Z",4,"PRLA.20190515.04.4.fyke","PIMPRO","Pimephales promelas",,40,"actual",,"0000-0002-4670-7736",

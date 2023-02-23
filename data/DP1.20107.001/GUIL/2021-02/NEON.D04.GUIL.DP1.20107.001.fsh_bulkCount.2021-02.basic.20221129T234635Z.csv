@@ -1,0 +1,7 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"4e5bc6a8-f9f2-433a-826c-863a72821c41","D04","GUIL","GUIL.AOS.fish.point.09","2021-02-23T13:05Z","2021-02-23T14:10Z",1,"GUIL.20210223.09.1.e-fisher","XIPHEL","Xiphophorus hellerii",,304,"actual",,"0000-0002-4299-7043",
+"cae8c8ad-4dc5-4b68-9dee-be35a3657573","D04","GUIL","GUIL.AOS.fish.point.09","2021-02-23T13:05Z","2021-02-23T14:10Z",1,"GUIL.20210223.09.1.e-fisher","POERET","Poecilia reticulata",,266,"actual",,"0000-0002-4299-7043",
+"142c9908-2545-4551-afc1-e32af2fcd443","D04","GUIL","GUIL.AOS.fish.point.09","2021-02-23T16:09Z","2021-02-23T17:16Z",2,"GUIL.20210223.09.2.e-fisher","XIPHEL","Xiphophorus hellerii",,212,"actual",,"0000-0002-4299-7043",
+"524a556b-5129-4f2d-bd92-a803eef26be0","D04","GUIL","GUIL.AOS.fish.point.09","2021-02-23T16:09Z","2021-02-23T17:16Z",2,"GUIL.20210223.09.2.e-fisher","POERET","Poecilia reticulata",,204,,,"0000-0002-4299-7043",
+"42842acc-fd4c-4bcf-b92c-c278ef755a6a","D04","GUIL","GUIL.AOS.fish.point.09","2021-02-23T18:20Z","2021-02-23T19:05Z",3,"GUIL.20210223.09.3.e-fisher","POERET","Poecilia reticulata",,144,"actual",,"0000-0002-4299-7043",
+"b46c7940-bc51-42bc-9583-178f128fb266","D04","GUIL","GUIL.AOS.fish.point.09","2021-02-23T18:20Z","2021-02-23T19:05Z",3,"GUIL.20210223.09.3.e-fisher","XIPHEL","Xiphophorus hellerii",,116,"actual",,"0000-0002-4299-7043",

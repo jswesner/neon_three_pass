@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"80206771-ae5b-4ae2-959c-1d1595244d7c","D11","BLUE","BLUE.AOS.fish.point.07","2018-04-09T06:35Z","2018-04-09T20:00Z",1,"BLUE.20180409.07.1.e-fisher","ETHRAD","Etheostoma radiosum",,130,"actual",,"cburton@battelleecology.org",
+"41efbbe6-a4da-4fc2-a32e-1f20eb756c24","D11","BLUE","BLUE.AOS.fish.point.07","2018-04-09T22:43Z","2018-04-09T23:52Z",2,"BLUE.20180409.07.2.e-fisher","ETHRAD","Etheostoma radiosum",,102,"actual",,"cburton@battelleecology.org",
+"50e5605f-b930-424d-8ee1-54eca2ff939f","D11","BLUE","BLUE.AOS.fish.point.02","2018-04-10T17:10Z","2018-04-10T19:01Z",1,"BLUE.20180410.02.1.e-fisher","ETHRAD","Etheostoma radiosum",,59,"actual",,"cburton@battelleecology.org",

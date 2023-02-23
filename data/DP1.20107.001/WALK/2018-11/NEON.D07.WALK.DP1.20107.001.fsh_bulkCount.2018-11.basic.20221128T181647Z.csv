@@ -1,0 +1,6 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"f90786aa-9ee0-4c86-adc3-357d46d9d60b","D07","WALK","WALK.AOS.fish.point.01","2018-11-06T13:51Z","2018-11-06T15:20Z",1,"WALK.20181106.01.1.e-fisher","RHIATR","Rhinichthys atratulus",,50,"actual",,"pharnage@battelleecology.org",
+"98cbe938-fa4d-49dd-92fb-ffa77864cc9d","D07","WALK","WALK.AOS.fish.point.02","2018-11-06T17:55Z","2018-11-06T19:12Z",1,"WALK.20181106.02.1.e-fisher","RHIATR","Rhinichthys atratulus",,50,"actual",,"pharnage@battelleecology.org",
+"a7b321b8-f03f-40d8-81b5-e43c262a9e46","D07","WALK","WALK.AOS.fish.point.03","2018-11-07T13:18Z","2018-11-07T14:39Z",1,"WALK.20181107.03.1.e-fisher","RHIATR","Rhinichthys atratulus",,46,"actual",,"pharnage@battelleecology.org",
+"3d4e7df6-93e3-493c-aa51-96c9330848bb","D07","WALK","WALK.AOS.fish.point.05","2018-11-07T17:10Z","2018-11-07T18:35Z",1,"WALK.20181107.05.1.e-fisher","RHIATR","Rhinichthys atratulus",,25,"actual",,"pharnage@battelleecology.org",
+"b11d7961-d19c-417e-a848-97bc8a7aa31d","D07","WALK","WALK.AOS.fish.point.06","2018-11-08T13:09Z","2018-11-08T14:43Z",1,"WALK.20181108.06.1.e-fisher","RHIATR","Rhinichthys atratulus",,66,"actual",,"pharnage@battelleecology.org",

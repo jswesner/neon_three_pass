@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"17f23075-66c4-4a46-b020-1cf3c399bee0","D07","LECO","LECO.AOS.fish.point.05","2019-04-11T19:28Z","2019-04-11T21:18Z",1,"LECO.20190411.05.1.e-fisher","RHIATR","Rhinichthys atratulus",,4,"actual",,"0000-0003-3518-7795",

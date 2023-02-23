@@ -1,0 +1,8 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"216705f7-3bc1-4b26-a638-afd1bf49923e","D07","WALK","WALK.AOS.fish.point.01","2020-11-02T13:36Z","2020-11-02T14:35Z",1,"WALK.20201102.01.1.e-fisher","RHIATR","Rhinichthys atratulus",,54,"actual",,"0000-0002-6187-2510",
+"f7c8a341-cfb2-4a50-bb7b-d576282c80a9","D07","WALK","WALK.AOS.fish.point.01","2020-11-02T15:25Z","2020-11-02T16:03Z",2,"WALK.20201102.01.2.e-fisher","RHIATR","Rhinichthys atratulus",,3,"actual",,"0000-0002-6187-2510",
+"1a3206d6-e13c-4854-96e4-e209e6e2509c","D07","WALK","WALK.AOS.fish.point.02","2020-11-02T17:53Z","2020-11-02T18:40Z",1,"WALK.20201102.02.1.e-fisher","RHIATR","Rhinichthys atratulus",,45,"actual",,"0000-0002-6187-2510",
+"09dd0b89-2a38-4724-a6f6-32d618a15023","D07","WALK","WALK.AOS.fish.point.03","2020-11-03T13:19Z","2020-11-03T14:09Z",1,"WALK.20201103.03.1.e-fisher","RHIATR","Rhinichthys atratulus",,10,"actual",,"0000-0002-6187-2510",
+"63d2b51c-7011-4aa0-a406-c6e151726e99","D07","WALK","WALK.AOS.fish.point.04","2020-11-03T17:17Z","2020-11-03T18:10Z",1,"WALK.20201103.04.1.e-fisher","RHIATR","Rhinichthys atratulus",,20,"actual",,"0000-0002-6187-2510",
+"5463d4c6-8834-4c42-a31b-dd17738c7a4c","D07","WALK","WALK.AOS.fish.point.05","2020-11-04T13:34Z","2020-11-04T14:40Z",1,"WALK.20201104.05.1.e-fisher","RHIATR","Rhinichthys atratulus",,46,"actual",,"0000-0002-6187-2510",
+"5367f613-b0e5-4a49-b068-4cb428992b02","D07","WALK","WALK.AOS.fish.point.08","2020-11-04T18:19Z","2020-11-04T18:53Z",1,"WALK.20201104.08.1.e-fisher","RHIATR","Rhinichthys atratulus",,9,"actual",,"0000-0002-6187-2510",

@@ -1,0 +1,10 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"f5aad749-ffef-4e7b-b2fd-425f8149fd2f","D14","SYCA","SYCA.AOS.fish.point.06","2022-02-01T16:08Z","2022-02-01T18:13Z",1,"SYCA.20220201.06.1.e-fisher","AGOCHR","Agosia chrysogaster",,4,"actual",,"0000-0002-8929-7933",
+"98b0f316-2b0a-48dc-b297-14fc665797e2","D14","SYCA","SYCA.AOS.fish.point.06","2022-02-01T18:35Z","2022-02-01T21:14Z",2,"SYCA.20220201.06.2.e-fisher","AGOCHR","Agosia chrysogaster",,95,"actual",,"0000-0002-8929-7933",
+"56c35acf-418d-4098-80fd-282c335ebc44","D14","SYCA","SYCA.AOS.fish.point.06","2022-02-01T21:30Z","2022-02-01T23:20Z",3,"SYCA.20220201.06.3.e-fisher","AGOCHR","Agosia chrysogaster",,2,"actual",,"0000-0002-8929-7933",
+"3683c16b-59a5-4ee6-8972-671e981a14e1","D14","SYCA","SYCA.AOS.fish.point.04","2022-02-02T15:55Z","2022-02-02T18:20Z",1,"SYCA.20220202.04.1.e-fisher","AGOCHR","Agosia chrysogaster",,483,"actual",,"0000-0002-8929-7933",
+"a31ada9e-608c-416e-ba33-0bbe8fcf22b6","D14","SYCA","SYCA.AOS.fish.point.04","2022-02-02T18:45Z","2022-02-02T20:45Z",2,"SYCA.20220202.04.2.e-fisher","AGOCHR","Agosia chrysogaster",,237,"actual",,"0000-0002-8929-7933",
+"0b19325c-edc1-4cf1-9fa5-79f2ee2c48a2","D14","SYCA","SYCA.AOS.fish.point.04","2022-02-02T21:01Z","2022-02-02T22:40Z",3,"SYCA.20220202.04.3.e-fisher","AGOCHR","Agosia chrysogaster",,117,"actual",,"0000-0002-8929-7933",
+"14d4a031-e840-481a-9144-bc7c32faebd9","D14","SYCA","SYCA.AOS.fish.point.10","2022-02-03T16:02Z","2022-02-03T17:34Z",1,"SYCA.20220203.10.1.e-fisher","AGOCHR","Agosia chrysogaster",,108,"actual",,"0000-0002-8929-7933",
+"fdfc5c69-76b2-4a20-9502-638497a03a46","D14","SYCA","SYCA.AOS.fish.point.10","2022-02-03T17:51Z","2022-02-03T19:25Z",2,"SYCA.20220203.10.2.e-fisher","AGOCHR","Agosia chrysogaster",,75,"actual",,"0000-0002-8929-7933",
+"ea296e01-acd1-44d2-b5b4-bcbc6c444e2a","D14","SYCA","SYCA.AOS.fish.point.10","2022-02-03T20:04Z","2022-02-03T22:46Z",3,"SYCA.20220203.10.3.e-fisher","AGOCHR","Agosia chrysogaster",,182,"actual",,"0000-0002-8929-7933",

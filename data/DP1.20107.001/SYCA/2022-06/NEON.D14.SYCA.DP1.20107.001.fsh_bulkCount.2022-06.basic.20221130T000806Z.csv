@@ -1,0 +1,6 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"e366a2b0-3db0-4925-a0f9-386e3a44787e","D14","SYCA","SYCA.AOS.fish.point.06","2022-06-28T15:02Z","2022-06-28T17:02Z",1,"SYCA.20220628.06.1.e-fisher","AGOCHR","Agosia chrysogaster",,411,"estimated",,"0000-0001-8362-7797",
+"2be7fa12-726b-4617-a92e-99c46462e664","D14","SYCA","SYCA.AOS.fish.point.06","2022-06-28T17:17Z","2022-06-28T19:20Z",2,"SYCA.20220628.06.2.e-fisher","AGOCHR","Agosia chrysogaster",,369,"actual",,"0000-0001-8362-7797",
+"c58abbc0-846f-48ec-aff9-2437acb477e7","D14","SYCA","SYCA.AOS.fish.point.04","2022-06-29T14:05Z","2022-06-29T15:55Z",1,"SYCA.20220629.04.1.e-fisher","AGOCHR","Agosia chrysogaster",,616,"actual",,"0000-0001-8362-7797",
+"aa89a7cf-0985-40ec-bd0a-4a724ed29ddd","D14","SYCA","SYCA.AOS.fish.point.04","2022-06-29T16:19Z","2022-06-29T17:56Z",2,"SYCA.20220629.04.2.e-fisher","AGOCHR","Agosia chrysogaster",,348,"actual",,"0000-0001-8362-7797",
+"ed4be039-7238-4550-8ffc-437983d63bc0","D14","SYCA","SYCA.AOS.fish.point.09","2022-06-30T13:33Z","2022-06-30T15:42Z",1,"SYCA.20220630.09.1.e-fisher","AGOCHR","Agosia chrysogaster",,374,"actual",,"0000-0001-8362-7797",

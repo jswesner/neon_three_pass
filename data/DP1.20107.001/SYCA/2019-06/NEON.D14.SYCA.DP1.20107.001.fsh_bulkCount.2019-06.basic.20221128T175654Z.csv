@@ -1,0 +1,11 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"fb80c45d-663a-4bda-940b-5581e54930c3","D14","SYCA","SYCA.AOS.fish.point.04","2019-06-25T19:54Z","2019-06-25T20:30Z",1,"SYCA.20190625.04.1.e-fisher","PIMPRO","Pimephales promelas",,108,"actual",,"0000-0001-8362-7797",
+"39da8f14-0a2a-47f3-a407-45422ded1adf","D14","SYCA","SYCA.AOS.fish.point.04","2019-06-25T22:01Z","2019-06-25T22:45Z",2,"SYCA.20190625.04.2.e-fisher","PIMPRO","Pimephales promelas",,45,"actual","cf. species","0000-0001-8362-7797",
+"6f7b9d08-4c09-4239-9753-d6ae8a0cb5e4","D14","SYCA","SYCA.AOS.fish.point.04","2019-06-26T00:05Z","2019-06-26T00:40Z",3,"SYCA.20190625.04.3.e-fisher","PIMPRO","Pimephales promelas",,19,"actual","cf. species","0000-0001-8362-7797",
+"168f283f-ed23-4cee-86d3-a4f632aeda6d","D14","SYCA","SYCA.AOS.fish.point.06","2019-06-26T14:57Z","2019-06-26T15:50Z",1,"SYCA.20190626.06.1.e-fisher","CYPSPP3","Cyprinidae spp.",,85,"actual",,"0000-0001-8362-7797",
+"05f12173-a864-4ddb-ba95-f473dec202aa","D14","SYCA","SYCA.AOS.fish.point.06","2019-06-26T17:16Z","2019-06-26T18:06Z",2,"SYCA.20190626.06.2.e-fisher","CYPSPP3","Cyprinidae spp.",,49,"actual",,"0000-0001-8362-7797",
+"5cc7c1ef-1c0a-424e-956b-76a55f5f556f","D14","SYCA","SYCA.AOS.fish.point.06","2019-06-26T18:40Z","2019-06-26T19:14Z",3,"SYCA.20190626.06.3.e-fisher","CYPSPP3","Cyprinidae spp.",,6,"actual",,"0000-0001-8362-7797",
+"385fa821-c5d4-4127-bf0b-a71cda87a26c","D14","SYCA","SYCA.AOS.fish.point.09","2019-06-27T14:32Z","2019-06-27T16:10Z",1,"SYCA.20190627.09.1.e-fisher","CYPSPP3","Cyprinidae spp.",,631,"actual",,"0000-0001-8362-7797",
+"7d1c1bc3-c2fb-4cf5-a69d-02a8831af5b3","D14","SYCA","SYCA.AOS.fish.point.10","2019-06-27T21:20Z","2019-06-27T22:30Z",1,"SYCA.20190627.10.1.e-fisher","CYPSPP3","Cyprinidae spp.",,241,"actual",,"0000-0001-8362-7797",
+"fb65e77b-89dd-4f36-86a3-5c40f2d5e393","D14","SYCA","SYCA.AOS.fish.point.10","2019-06-28T00:08Z","2019-06-28T01:00Z",2,"SYCA.20190627.10.2.e-fisher","CYPSPP3","Cyprinidae spp.",,67,"actual",,"0000-0001-8362-7797",
+"98559545-1e4d-4af2-ac1f-8c69bc53ed46","D14","SYCA","SYCA.AOS.fish.point.10","2019-06-28T01:34Z","2019-06-28T02:20Z",3,"SYCA.20190627.10.3.e-fisher","CYPSPP3","Cyprinidae spp.",,45,"actual",,"0000-0001-8362-7797",

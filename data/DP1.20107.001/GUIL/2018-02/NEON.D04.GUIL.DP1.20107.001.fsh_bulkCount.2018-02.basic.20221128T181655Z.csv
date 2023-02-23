@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"abde708a-e921-4c2c-96fc-f11154dc2c4f","D04","GUIL","GUIL.AOS.fish.point.09","2018-02-08T15:30Z","2018-02-08T15:50Z",2,"GUIL.20180208.09.2.e-fisher","POERET","Poecilia reticulata",,24,"actual",,"mviggiano@battelleecology.org",
+"f06f52dc-dd97-4561-b691-148e2e43e0fd","D04","GUIL","GUIL.AOS.fish.point.09","2018-02-08T16:20Z","2018-02-08T16:45Z",3,"GUIL.20180208.09.3.e-fisher","POERET","Poecilia reticulata",,21,"actual",,"mviggiano@battelleecology.org",
+"2d5e6045-0261-4896-9821-3b40297b8d90","D04","GUIL","GUIL.AOS.fish.point.09","2018-02-08T16:20Z","2018-02-08T16:45Z",3,"GUIL.20180208.09.3.e-fisher","XIPHEL","Xiphophorus hellerii",,25,"actual",,"mviggiano@battelleecology.org",

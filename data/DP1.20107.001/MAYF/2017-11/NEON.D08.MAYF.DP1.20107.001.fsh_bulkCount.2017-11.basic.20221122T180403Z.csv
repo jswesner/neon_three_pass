@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"5dadaf4b-fbfc-4e2d-b27d-c730128a2e43","D08","MAYF","MAYF.AOS.fish.point.01","2017-11-06T17:19Z","2017-11-06T19:31Z",1,"MAYF.20171106.01.1.e-fisher","NOTBAI","Notropis baileyi",,100,"actual",,"jgalloway@battelleecology.org",

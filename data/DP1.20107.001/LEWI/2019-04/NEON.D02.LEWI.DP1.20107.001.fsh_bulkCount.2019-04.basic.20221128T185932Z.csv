@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"c609f5e2-68d7-4274-bdd9-9a1907ee0ef1","D02","LEWI","LEWI.AOS.fish.point.04","2019-04-17T15:23Z","2019-04-17T16:00Z",2,"LEWI.20190417.04.2.e-fisher","COTGIR","Cottus girardi",,18,"actual",,"0000-0003-3114-5862",
+"8285cbf8-e35b-4a54-854e-8a57a6c7161f","D02","LEWI","LEWI.AOS.fish.point.04","2019-04-17T16:13Z","2019-04-17T16:47Z",3,"LEWI.20190417.04.3.e-fisher","COTGIR","Cottus girardi",,17,"actual",,"0000-0003-3114-5862",
+"f98b5caf-9bd9-4893-8d6e-55a04699a5ee","D02","LEWI","LEWI.AOS.fish.point.09","2019-04-18T18:48Z","2019-04-18T19:40Z",3,"LEWI.20190418.09.3.e-fisher","COTGIR","Cottus girardi",,17,"actual",,"0000-0003-3114-5862",

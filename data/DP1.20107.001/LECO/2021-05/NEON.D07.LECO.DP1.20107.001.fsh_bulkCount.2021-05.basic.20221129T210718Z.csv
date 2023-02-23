@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"723c7cfa-a5aa-4611-a8f3-929b52be477e","D07","LECO","LECO.AOS.fish.point.05","2021-05-25T19:30Z","2021-05-25T20:29Z",1,"LECO.20210525.05.1.e-fisher","RHIATR","Rhinichthys atratulus",,31,"actual",,"0000-0002-6187-2510",
+"1e8f8569-6a3a-46f2-9194-5fee2e5ebe3e","D07","LECO","LECO.AOS.fish.point.10","2021-05-26T15:11Z","2021-05-26T16:17Z",1,"LECO.20210526.10.1.e-fisher","RHIATR","Rhinichthys atratulus",,4,"actual",,"0000-0002-6187-2510",

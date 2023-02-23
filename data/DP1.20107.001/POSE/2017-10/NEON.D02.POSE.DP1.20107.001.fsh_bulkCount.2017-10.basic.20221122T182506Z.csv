@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"cf558e6b-b5e7-4386-98a7-effc419787e9","D02","POSE","POSE.AOS.fish.point.05","2017-10-31T13:07Z","2017-10-31T14:13Z",1,"POSE.20171031.05.1.e-fisher","RHIATR","Rhinichthys atratulus",,81,"actual",,"jcoloso@battelleecology.org",
+"c596af6b-45ad-43fc-ad82-a45899e0f5ba","D02","POSE","POSE.AOS.fish.point.07","2017-10-31T17:38Z","2017-10-31T19:19Z",2,"POSE.20171031.07.2.e-fisher","RHIATR","Rhinichthys atratulus",,25,"actual",,"jcoloso@battelleecology.org",
+"16963010-bbb0-4db0-ae3d-0cb93c226acd","D02","POSE","POSE.AOS.fish.point.07","2017-10-31T18:45Z","2017-10-31T19:13Z",3,"POSE.20171031.07.3.e-fisher","RHIATR","Rhinichthys atratulus",,25,"actual",,"jcoloso@battelleecology.org",

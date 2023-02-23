@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"14cfcbaa-000f-45fe-890e-469a5eda5684","D17","TECR","TECR.AOS.fish.point.05","2022-10-12T18:30Z","2022-10-12T19:00Z",1,"TECR.20221012.05.1.e-fisher","SALFON","Salvelinus fontinalis",,44,"actual",,"0000-0001-9719-1429","Original record lost. Roughly 60% adults."
+"c0aa32c5-0a10-49f1-b56a-46afe0321810","D17","TECR","TECR.AOS.fish.point.05","2022-10-12T20:24Z","2022-10-12T21:05Z",2,"TECR.20221012.05.2.e-fisher","SALFON","Salvelinus fontinalis",,1,"actual",,"0000-0001-9719-1429",
+"90b224a3-5df1-4ee2-81a7-1c2f1f1263bb","D17","TECR","TECR.AOS.fish.point.05","2022-10-12T20:24Z","2022-10-12T21:05Z",2,"TECR.20221012.05.2.e-fisher","SALFON","Salvelinus fontinalis",,5,"actual",,"0000-0001-9719-1429",
+"69ffdf0d-9560-4796-be99-40a65a34a622","D17","TECR","TECR.AOS.fish.point.05","2022-10-12T20:24Z","2022-10-12T21:05Z",2,"TECR.20221012.05.2.e-fisher","SALFON","Salvelinus fontinalis",,16,"actual",,"0000-0001-9719-1429",

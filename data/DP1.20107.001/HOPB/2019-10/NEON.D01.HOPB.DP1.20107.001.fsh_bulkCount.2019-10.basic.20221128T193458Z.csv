@@ -1,0 +1,7 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"51dee0a4-b993-4053-b7d7-a08463193258","D01","HOPB","HOPB.AOS.fish.point.03","2019-10-21T18:20Z","2019-10-21T20:02Z",1,"HOPB.20191021.03.1.e-fisher","SEMATR","Semotilus atromaculatus",,40,"actual",,"0000-0003-4958-6412",
+"590a8363-3c2c-4fcb-bcd6-1d9b3ad97814","D01","HOPB","HOPB.AOS.fish.point.03","2019-10-21T18:20Z","2019-10-21T20:02Z",1,"HOPB.20191021.03.1.e-fisher","RHIATR","Rhinichthys atratulus",,39,"actual",,"0000-0003-4958-6412",
+"6202aae3-5d98-4e90-8d05-5f19027994a2","D01","HOPB","HOPB.AOS.fish.point.08","2019-10-24T17:13Z","2019-10-24T18:53Z",1,"HOPB.20191024.08.1.e-fisher","RHIATR","Rhinichthys atratulus",,52,"actual",,"0000-0003-4958-6412",
+"93fea39d-e305-48d8-b212-4e94ddacb9c6","D01","HOPB","HOPB.AOS.fish.point.08","2019-10-24T17:13Z","2019-10-24T18:53Z",1,"HOPB.20191024.08.1.e-fisher","SEMATR","Semotilus atromaculatus",,4,"actual",,"0000-0003-4958-6412",
+"f2619135-dcd8-47ea-aad8-630ebab67b2b","D01","HOPB","HOPB.AOS.fish.point.10","2019-10-25T13:48Z","2019-10-25T14:37Z",1,"HOPB.20191025.10.1.e-fisher","RHIATR","Rhinichthys atratulus",,35,"actual",,"0000-0003-4958-6412",
+"d3daaf2d-674b-4fc7-a989-1a16d72c6272","D01","HOPB","HOPB.AOS.fish.point.10","2019-10-25T16:31Z","2019-10-25T17:37Z",2,"HOPB.20191025.10.2.e-fisher","RHIATR","Rhinichthys atratulus",,10,"actual",,"0000-0003-4958-6412",

@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"66bb70ff-18cf-4f91-9ec3-48b24f699bae","D09","PRPO","PRPO.AOS.riparian.point.06","2021-09-30T23:26Z","2021-10-01T14:33Z",4,"PRPO.20210930.06.4.fyke","ETHEXI","Etheostoma exile",,1,"actual",,"0000-0002-1892-7221",
+"ae7e6ea9-7b00-4282-9109-2f4c8acf0fef","D09","PRPO","PRPO.AOS.riparian.point.06","2021-09-30T23:26Z","2021-10-01T14:33Z",4,"PRPO.20210930.06.4.fyke","PIMPRO","Pimephales promelas",,1336,"estimated",,"0000-0002-1892-7221",
+"e5f6ac86-3d16-4970-8a1b-d6e7aa85d04f","D09","PRPO","PRPO.AOS.riparian.point.06","2021-09-30T23:26Z","2021-10-01T14:33Z",4,"PRPO.20210930.06.4.fyke","PIMPRO","Pimephales promelas",,157,"estimated",,"0000-0002-1892-7221",
+"f599de67-3995-4fc0-b570-986bc3e91584","D09","PRPO","PRPO.AOS.riparian.point.05","2021-09-30T23:37Z","2021-10-01T15:33Z",4,"PRPO.20210930.05.4.fyke","PIMPRO","Pimephales promelas",,4396,"estimated",,"0000-0002-1892-7221",
+"0e938d24-54e8-470c-a0d6-cf78b17f2eb3","D09","PRPO","PRPO.AOS.riparian.point.05","2021-09-30T23:37Z","2021-10-01T15:33Z",4,"PRPO.20210930.05.4.fyke","PIMPRO","Pimephales promelas",,134,"estimated",,"0000-0002-1892-7221",
+"c8c32d93-ae28-465d-99f8-f12d6b12225b","D09","PRPO","PRPO.AOS.riparian.point.01","2021-10-01T00:52Z","2021-10-01T01:44Z",1,"PRPO.20210930.01.1.e-fisher","PIMPRO","Pimephales promelas",,125,"actual",,"0000-0002-1892-7221",
+"d58c3ebd-110a-48bc-a523-ef9b75064be2","D09","PRPO","PRPO.AOS.riparian.point.01","2021-10-01T01:49Z","2021-10-01T02:20Z",2,"PRPO.20210930.01.2.e-fisher","PIMPRO","Pimephales promelas",,170,"actual",,"0000-0002-1892-7221",
+"cccc40d4-545d-4c26-af07-b0e296df35b4","D09","PRPO","PRPO.AOS.riparian.point.01","2021-10-01T02:40Z","2021-10-01T02:58Z",3,"PRPO.20210930.01.3.e-fisher","PIMPRO","Pimephales promelas",,154,"actual",,"0000-0002-1892-7221",

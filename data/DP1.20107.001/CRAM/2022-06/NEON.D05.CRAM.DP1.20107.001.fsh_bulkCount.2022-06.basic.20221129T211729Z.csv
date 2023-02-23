@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"088657ef-84bf-4dd8-9dac-0b561f56e610","D05","CRAM","CRAM.AOS.riparian.point.03","2022-06-21T01:00Z","2022-06-21T16:55Z",4,"CRAM.20220620.03.4.fyke","LEPMAC","Lepomis macrochirus",,68,,,"0000-0002-6680-4162",
+"bcc3568b-34af-44a5-8c6a-450b92019195","D05","CRAM","CRAM.AOS.riparian.point.01","2022-06-21T01:39Z","2022-06-21T15:21Z",4,"CRAM.20220620.01.4.fyke","LEPMAC","Lepomis macrochirus",,5,"estimated",,"0000-0002-6680-4162",
+"4c065c38-6400-452b-9e4a-5f84cc0f2155","D05","CRAM","CRAM.AOS.riparian.point.01","2022-06-21T01:39Z","2022-06-21T15:21Z",4,"CRAM.20220620.01.4.fyke","LEPMAC","Lepomis macrochirus",,15,"estimated",,"0000-0002-6680-4162",

@@ -1,0 +1,7 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"3174e892-402f-4e2d-9a27-9deef3a04ef8","D06","MCDI","MCDI.AOS.fish.point.02","2019-04-17T18:11Z","2019-04-17T18:34Z",3,"MCDI.20190417.02.3.e-fisher","CHRERY","Chrosomus erythrogaster",,52,"actual",,"0000-0001-9594-9689",
+"772b2c3e-d1ca-4f73-8739-91d49dceb8ae","D06","MCDI","MCDI.AOS.fish.point.02","2019-04-17T18:11Z","2019-04-17T18:34Z",3,"MCDI.20190417.02.3.e-fisher","CAMANO","Campostoma anomalum",,1,"actual",,"0000-0001-9594-9689",
+"9b6c7f61-3ea2-4a5d-b190-0cd69cd4ac28","D06","MCDI","MCDI.AOS.fish.point.04","2019-04-18T16:39Z","2019-04-18T17:07Z",2,"MCDI.20190418.04.2.e-fisher","ETHSPE","Etheostoma spectabile",,20,"actual",,"0000-0001-9594-9689",
+"10c153d9-b489-4833-84e9-91a09bd663dd","D06","MCDI","MCDI.AOS.fish.point.04","2019-04-18T17:42Z","2019-04-18T18:10Z",3,"MCDI.20190418.04.3.e-fisher","CAMANO","Campostoma anomalum",,9,"actual",,"0000-0001-9594-9689",
+"87c2455e-8961-4f1e-8d7d-9825c92eaf51","D06","MCDI","MCDI.AOS.fish.point.04","2019-04-18T17:42Z","2019-04-18T18:10Z",3,"MCDI.20190418.04.3.e-fisher","ETHSPE","Etheostoma spectabile",,22,"actual",,"0000-0001-9594-9689",
+"6c3ba599-775c-4660-b875-d381234fa1ac","D06","MCDI","MCDI.AOS.fish.point.05","2019-04-19T14:52Z","2019-04-19T15:34Z",1,"MCDI.20190419.05.1.e-fisher","CHRERY","Chrosomus erythrogaster",,24,"actual",,"0000-0001-9594-9689",

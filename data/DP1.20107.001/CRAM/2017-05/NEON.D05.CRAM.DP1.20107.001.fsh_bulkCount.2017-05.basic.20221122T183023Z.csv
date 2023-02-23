@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"d63c6f79-38d5-4bb6-8ac0-825cf97a1c29","D05","CRAM","CRAM.AOS.riparian.point.03","2017-05-18T21:00Z","2017-05-19T17:00Z",1,"CRAM.20170518.03.1.fyke","LEPMAC","Lepomis macrochirus",,1516,"actual",,"jhudson@battelleecology.org",
+"164e113e-cf11-4001-9759-b29d599440a0","D05","CRAM","CRAM.AOS.riparian.point.03","2017-05-18T21:00Z","2017-05-19T17:00Z",1,"CRAM.20170518.03.1.fyke","PERFLA","Perca flavescens",,3,"actual",,"jhudson@battelleecology.org",

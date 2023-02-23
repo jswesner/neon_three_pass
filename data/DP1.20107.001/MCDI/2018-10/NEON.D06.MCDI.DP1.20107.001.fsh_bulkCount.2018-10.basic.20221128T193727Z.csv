@@ -1,0 +1,7 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identifiedBy,remarks
+"1af4c49b-d25b-4a20-bb27-2542283c616e","D06","MCDI","MCDI.AOS.fish.point.02","2018-10-24T18:29Z","2018-10-24T19:02Z",3,"MCDI.20181024.02.3.e-fisher","CAMANO","Campostoma anomalum",,17,"actual",,"egawanda@battelleecology.org",
+"d0c40882-0afa-49c2-8e39-09263ec7fa84","D06","MCDI","MCDI.AOS.fish.point.02","2018-10-24T18:29Z","2018-10-24T19:02Z",3,"MCDI.20181024.02.3.e-fisher","ETHSPE","Etheostoma spectabile",,12,"actual",,"egawanda@battelleecology.org",
+"674e26c6-b249-4882-9f47-6b030070f1f7","D06","MCDI","MCDI.AOS.fish.point.04","2018-10-26T17:40Z","2018-10-26T18:00Z",2,"MCDI.20181026.04.2.e-fisher","CAMANO","Campostoma anomalum",,33,"actual",,"egawanda@battelleecology.org",
+"d08c56e7-7f27-4256-8bda-671e97888c56","D06","MCDI","MCDI.AOS.fish.point.04","2018-10-26T17:40Z","2018-10-26T18:00Z",2,"MCDI.20181026.04.2.e-fisher","ETHSPE","Etheostoma spectabile",,40,"actual",,"egawanda@battelleecology.org",
+"7e4bfa0b-7eee-4d1b-a2a9-323a8a1eee05","D06","MCDI","MCDI.AOS.fish.point.04","2018-10-26T18:40Z","2018-10-26T19:00Z",3,"MCDI.20181026.04.3.e-fisher","ETHSPE","Etheostoma spectabile",,43,"actual",,"egawanda@battelleecology.org",
+"b7b2811b-bc59-43c5-936c-da70d8616027","D06","MCDI","MCDI.AOS.fish.point.04","2018-10-26T18:40Z","2018-10-26T19:00Z",3,"MCDI.20181026.04.3.e-fisher","CAMANO","Campostoma anomalum",,31,"actual",,"egawanda@battelleecology.org",

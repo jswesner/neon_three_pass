@@ -127,7 +127,7 @@ three_pass_data_species = bind_rows(fish_bulk_species, fish_measures_species) %>
   left_join(fish_reach_length) %>% 
   left_join(mean_wetted_width)
 
-write_csv(three_pass_data, file = "data/raw_data/fish/three_pass_data.csv")
+write_csv(three_pass_data_species, file = "data/raw_data/fish/three_pass_data_species.csv")
 
 
 

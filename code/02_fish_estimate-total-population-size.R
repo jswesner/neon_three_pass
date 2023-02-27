@@ -73,7 +73,7 @@ reach_info = three_pass_data_wide %>% ungroup %>% # add identifiers
 site_capture_probs = capture_prob_posts %>% 
   mutate(site_int = parse_number(name)) %>% #get original group names
   left_join(reach_info) %>% 
-  filter(reach_id != "KING.20201021.04")  %>% # this sample is probably not reliable () 
+  # filter(reach_id != "KING.20201021.04")  %>% # this sample is probably not reliable () 
   group_by(site_id) %>% # group and summarize
   median_qi(median_prob = inv_logit_scaled(value)) %>% # summarize on the probability scale (via link function)
   select(-.width, -.point, -.interval) 

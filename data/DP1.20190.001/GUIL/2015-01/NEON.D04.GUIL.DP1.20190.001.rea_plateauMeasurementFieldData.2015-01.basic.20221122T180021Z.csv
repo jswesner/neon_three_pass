@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"817dc5f3-e056-42cf-908a-34dbec05591f","D04","GUIL","GUIL.AOS.reaeration.station.03","2015-01-08T13:50Z",20.10,222.80,222.80,222.80,222.80,222.80,
+"54de072a-3659-470c-8e79-9af758fb1c5c","D04","GUIL","GUIL.AOS.reaeration.station.01","2015-01-08T13:50Z",20.00,222.80,222.80,222.80,222.80,222.80,
+"c05d663a-23bd-4d82-b48b-477f926e2131","D04","GUIL","GUIL.AOS.reaeration.station.04","2015-01-08T13:50Z",20.10,222.80,222.80,222.80,222.80,222.80,
+"e61c77b1-b113-43ff-a068-ff66b29d3905","D04","GUIL","GUIL.AOS.reaeration.station.02","2015-01-08T13:50Z",20.10,222.80,222.80,222.80,222.80,222.80,
+"74dd59fd-ef49-4414-b31f-0f0b9cdc1bb9","D04","GUIL","GUIL.AOS.reaeration.station.03","2015-01-29T14:15Z",20.00,,,,,,
+"1a692ac2-1873-4142-8675-b198943c77b9","D04","GUIL","GUIL.AOS.reaeration.station.01","2015-01-29T14:15Z",20.00,,,,,,
+"9c92a0bd-e1b3-430a-af1c-3c5281cf6f39","D04","GUIL","GUIL.AOS.reaeration.station.02","2015-01-29T14:15Z",21.00,,,,,,
+"ecb913a6-080c-4ee9-ac2e-db639f963145","D04","GUIL","GUIL.AOS.reaeration.station.04","2015-01-29T14:15Z",20.00,,,,,,

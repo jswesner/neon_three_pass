@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"c1061942-2c1b-46d4-8677-efa8efce40a6","D01","HOPB","HOPB.AOS.reaeration.station.03","2019-06-04T16:17Z",14.90,96.70,,,,,
+"ed915c51-041d-4bce-8b1f-eb863c07da1f","D01","HOPB","HOPB.AOS.reaeration.station.01","2019-06-04T16:17Z",14.90,96.20,,,,,
+"82f4874e-3274-4a58-b1ca-53d84c543654","D01","HOPB","HOPB.AOS.reaeration.station.04","2019-06-04T16:17Z",14.90,95.10,,,,,
+"afe26539-2502-4afa-8e08-268129d7fee6","D01","HOPB","HOPB.AOS.reaeration.station.02","2019-06-04T16:17Z",14.90,96.90,,,,,
+"86c4a527-d0c8-46ab-ae1c-abab061d7dd1","D01","HOPB","HOPB.AOS.reaeration.station.03","2019-06-18T13:30Z",15.90,97.60,,,,,"Vial 13 needle came off syringe; potential leakage"
+"f840841d-e762-4d20-887c-0715ea87c354","D01","HOPB","HOPB.AOS.reaeration.station.01","2019-06-18T13:30Z",15.90,97.30,,,,,
+"64248f3b-092a-4b80-ae46-95ebb28a4e07","D01","HOPB","HOPB.AOS.reaeration.station.04","2019-06-18T13:30Z",15.90,97.33,,,,,"Vial 19 needle came off; potential leakage"
+"ed31c023-892b-4fb2-99c2-c1fbf5dd577c","D01","HOPB","HOPB.AOS.reaeration.station.02","2019-06-18T13:30Z",15.90,97.70,,,,,

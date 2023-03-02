@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"96cc80dd-f97d-4854-a2ae-994e1be38233","D04","GUIL","GUIL.AOS.reaeration.station.04","2015-01-08T13:50Z",300.00,231.50,231.30,231.30,231.10,"Y","GUIL.B4.20150108.TCR",,"Temp.18.4 C","externalLabSaltSampleDataNA"
+"07a12cde-3f56-4451-b3ad-7d7871bc9da9","D04","GUIL","GUIL.AOS.reaeration.station.03","2015-01-08T13:50Z",200.00,226.20,226.10,226.20,226.20,"Y","GUIL.B3.20150108.TCR",,"Temp. 18.6 C","externalLabSaltSampleDataNA"
+"ff39bce4-5553-4d39-9c9e-20d06cb07449","D04","GUIL","GUIL.AOS.reaeration.station.02","2015-01-08T13:50Z",100.00,224.80,224.90,224.90,224.90,"Y","GUIL.B2.20150108.TCR",,"Temp. 18.6 C","externalLabSaltSampleDataNA"
+"c9b85190-3a23-4c40-8244-4fc6226ef9c8","D04","GUIL","GUIL.AOS.reaeration.station.01","2015-01-08T13:50Z",6.00,220.40,220.10,219.70,219.90,"Y","GUIL.B1.20150108.TCR",,"Temp. 19 C","externalLabSaltSampleDataNA"
+"c269a3fb-f8a4-489b-a18e-c992d61e153b","D04","GUIL","GUIL.AOS.reaeration.station.01","2015-01-29T14:15Z",30.00,217.00,217.00,216.80,217.00,"Y","GUIL.B1.20150129.TCR",,"Temp. 19.7 C",
+"5d27dede-673a-4ad7-b8c9-0db27fcfba9a","D04","GUIL","GUIL.AOS.reaeration.station.04","2015-01-29T14:15Z",301.00,226.40,226.40,226.50,226.50,"Y","GUIL.B4.20150129.TCR",,"Temp. 18.9 C",
+"0aba541d-dcd5-4c9e-884d-01c532b0d090","D04","GUIL","GUIL.AOS.reaeration.station.02","2015-01-29T14:15Z",88.00,220.50,220.40,220.50,220.50,"Y","GUIL.B2.20150129.TCR",,"Temp.19.2 C",
+"3245891f-a13c-41a9-8df6-9a99eeb2629f","D04","GUIL","GUIL.AOS.reaeration.station.03","2015-01-29T14:15Z",153.00,221.10,221.70,221.70,221.50,"Y","GUIL.B3.20150129.TCR",,"Temp. 19.2 C",

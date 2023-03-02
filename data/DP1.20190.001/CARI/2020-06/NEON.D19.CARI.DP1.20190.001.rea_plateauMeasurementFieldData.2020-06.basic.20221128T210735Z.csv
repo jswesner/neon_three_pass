@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"40f560f7-465d-4c9c-9cc2-23ef3045277e","D19","CARI","CARI.AOS.reaeration.station.01","2020-06-05T19:43Z",4.10,4.80,,,,,
+"25a2a3c4-bc0d-40fa-b4a6-c2f4f11badd9","D19","CARI","CARI.AOS.reaeration.station.03","2020-06-05T19:43Z",4.00,74.40,,,,,
+"a64a2766-bbf7-401a-a39e-e36b77bf61a2","D19","CARI","CARI.AOS.reaeration.station.04","2020-06-05T19:43Z",4.00,74.10,,,,,"Cari.19.20200605.gas may be comprimised as a result of a faulty syringe"
+"9b98c919-c42a-45bd-809a-60fe6249c028","D19","CARI","CARI.AOS.reaeration.station.02","2020-06-05T19:43Z",4.00,74.80,,,,,
+"15c294b2-1f7a-4a7b-9aa5-774a301f2d0d","D19","CARI","CARI.AOS.reaeration.station.03","2020-06-19T19:22Z",4.50,78.40,,,,,
+"bd1804d3-2dcf-47dd-9cf0-30c8b1ca703d","D19","CARI","CARI.AOS.reaeration.station.02","2020-06-19T19:22Z",4.50,78.60,,,,,
+"f6ce5fb2-8fe6-47d2-bbcf-b1111728df4b","D19","CARI","CARI.AOS.reaeration.station.04","2020-06-19T19:22Z",4.60,78.20,,,,,
+"35449be1-af94-40d1-8cdd-3218b269b955","D19","CARI","CARI.AOS.reaeration.station.01","2020-06-19T19:22Z",4.50,78.20,,,,,

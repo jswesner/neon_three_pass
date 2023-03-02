@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"125f4acd-3f2a-4d6c-ab77-2716fd95eb62","D04","CUPE","CUPE.AOS.reaeration.station.02","2020-12-22T12:30Z",22.10,313.20,,,,,
+"467bdff6-ce28-477c-9c5a-2187b4401324","D04","CUPE","CUPE.AOS.reaeration.station.01","2020-12-22T12:30Z",22.00,312.40,312.50,312.50,312.40,312.40,
+"70c27beb-cc1a-42ab-b95e-a4f4de12523c","D04","CUPE","CUPE.AOS.reaeration.station.04","2020-12-22T12:30Z",22.30,312.50,,,,,
+"4d3ad169-8671-4963-ae86-241aff2a2bff","D04","CUPE","CUPE.AOS.reaeration.station.03","2020-12-22T12:30Z",22.10,313.10,,,,,"Syringe 11 was shaken with 32 mL of water and 18 mL of air"

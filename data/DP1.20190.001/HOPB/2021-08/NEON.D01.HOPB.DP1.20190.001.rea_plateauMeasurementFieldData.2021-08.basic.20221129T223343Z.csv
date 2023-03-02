@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"c9bf9255-1b15-4a0b-93fc-c62a70fd2a21","D01","HOPB","HOPB.AOS.reaeration.station.02","2021-08-16T16:15Z",19.90,115.40,,,,,"Needle was stuck on syringe for gas vial 7 and not all gas was ejected into vial."
+"fc72032d-f359-40bd-87bc-49bd20000cc0","D01","HOPB","HOPB.AOS.reaeration.station.03","2021-08-16T16:15Z",19.80,111.10,,,,,
+"40200246-9224-425a-a4a3-1d8db192d061","D01","HOPB","HOPB.AOS.reaeration.station.01","2021-08-16T16:15Z",19.90,116.00,,,,,
+"aa86b202-5fe0-434a-a5fd-9ef574f655ae","D01","HOPB","HOPB.AOS.reaeration.station.04","2021-08-16T16:15Z",19.70,113.70,,,,,

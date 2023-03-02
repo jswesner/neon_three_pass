@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"a457831d-1183-4901-8d17-50fdc0564c55","D04","GUIL","GUIL.AOS.reaeration.station.04","2018-05-01T12:25Z",24.20,229.50,,,,,
+"fbf66f7d-cb7a-4915-bf76-4fb1828d0f30","D04","GUIL","GUIL.AOS.reaeration.station.02","2018-05-01T12:25Z",23.80,229.70,,,,,
+"7a6bf838-a57a-4f0f-a566-ec85e74395e7","D04","GUIL","GUIL.AOS.reaeration.station.03","2018-05-01T12:25Z",24.10,229.10,,,,,
+"bb890bf8-8d90-4aee-9c35-f14b4115ec02","D04","GUIL","GUIL.AOS.reaeration.station.01","2018-05-01T12:25Z",23.50,228.40,228.20,230.40,230.30,229.80,

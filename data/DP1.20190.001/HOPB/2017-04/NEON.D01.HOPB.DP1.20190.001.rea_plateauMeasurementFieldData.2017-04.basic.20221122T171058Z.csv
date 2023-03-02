@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"b76279d5-1fbb-4213-a6ae-2fbbf55d5d18","D01","HOPB","HOPB.AOS.reaeration.station.04","2017-04-10T12:00Z",9.20,114.70,,,,,
+"2df70e52-f667-4253-b4c3-5773cb817254","D01","HOPB","HOPB.AOS.reaeration.station.02","2017-04-10T12:00Z",9.00,116.10,,,,,
+"bb2f17f5-1280-4d66-94f5-1bc45e566ab5","D01","HOPB","HOPB.AOS.reaeration.station.01","2017-04-10T12:00Z",8.80,116.90,116.30,116.50,117.50,117.70,
+"4cde0c1b-3987-4abb-9753-d55aee07daa5","D01","HOPB","HOPB.AOS.reaeration.station.03","2017-04-10T12:00Z",9.10,115.40,,,,,

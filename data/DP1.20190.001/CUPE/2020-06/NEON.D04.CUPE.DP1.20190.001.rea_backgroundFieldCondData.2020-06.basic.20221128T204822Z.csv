@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"09579a3b-26e6-43e2-a2ec-ebded722662c","D04","CUPE","CUPE.AOS.reaeration.station.01","2020-06-17T12:23Z",35.00,"CUPE_S1_20200617"
+"e69741dd-8ba9-4c88-b4bf-74948e0803ed","D04","CUPE","CUPE.AOS.reaeration.station.04","2020-06-17T12:23Z",314.00,"CUPE_S4_20200617"

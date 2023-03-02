@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"66aa199c-20f2-4e87-a0f1-6bb2a02897fc","D13","COMO","COMO.AOS.reaeration.station.04","2017-06-20T17:10Z",101.60,21.00,22.80,21.50,22.10,"Y","COMO.B4.20170620.TCR",,,
+"43d145d6-b332-4cd4-b65e-28c5a6ef8bd8","D13","COMO","COMO.AOS.reaeration.station.02","2017-06-20T17:10Z",38.60,20.10,19.80,13.10,12.90,"Y","COMO.B2.20170620.TCR",,,
+"221785fd-c08e-4835-ad6e-eac7145daa67","D13","COMO","COMO.AOS.reaeration.station.01","2017-06-20T17:10Z",18.60,13.90,14.60,15.50,13.40,"Y","COMO.B1.20170620.TCR",,,
+"ce0166ed-9962-454f-986e-dd477cbfe6fa","D13","COMO","COMO.AOS.reaeration.station.03","2017-06-20T17:10Z",68.60,17.30,14.20,14.60,13.90,"Y","COMO.B3.20170620.TCR",,,
+"5762b33e-f0f0-4329-980e-e670c6ce180b","D13","COMO","COMO.AOS.reaeration.station.01","2017-06-27T16:27Z",18.60,14.40,13.90,14.60,14.20,"Y","COMO.B1.20170627.TCR",,,
+"0af851b6-95a3-499b-a3fc-cd748170bca1","D13","COMO","COMO.AOS.reaeration.station.02","2017-06-27T16:27Z",38.60,15.10,13.70,14.20,14.50,"Y","COMO.B2.20170627.TCR",,,
+"b036b14e-de01-48d4-9889-1b0afc8fd767","D13","COMO","COMO.AOS.reaeration.station.04","2017-06-27T16:27Z",101.60,14.80,15.30,14.20,14.80,"Y","COMO.B4.20170627.TCR",,,
+"17850466-f1c2-4500-bcb7-207129d99329","D13","COMO","COMO.AOS.reaeration.station.03","2017-06-27T16:27Z",68.60,14.50,14.60,14.20,14.50,"Y","COMO.B3.20170627.TCR",,,

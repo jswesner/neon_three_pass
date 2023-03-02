@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"d798e9fa-4ee1-4aec-b50e-481d74542422","D17","BIGC","BIGC.AOS.reaeration.station.02","2020-02-26T18:26Z",8.30,194.30,,,,,
+"313f963c-7b0c-425b-86d3-5d0d3744a009","D17","BIGC","BIGC.AOS.reaeration.station.04","2020-02-26T18:26Z",8.30,191.30,,,,,
+"7f8465f2-4427-4deb-b515-1ee2301e4202","D17","BIGC","BIGC.AOS.reaeration.station.01","2020-02-26T18:26Z",8.20,194.90,193.50,192.60,193.90,193.20,
+"08515c99-7124-4d66-95b4-78b200035b79","D17","BIGC","BIGC.AOS.reaeration.station.03","2020-02-26T18:26Z",8.30,189.30,,,,,

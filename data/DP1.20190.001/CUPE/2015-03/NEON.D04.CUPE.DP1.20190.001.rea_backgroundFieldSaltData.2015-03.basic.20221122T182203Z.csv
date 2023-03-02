@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"d0e68a93-9a6c-4d61-9d3d-bcd2b9a20d81","D04","CUPE","CUPE.AOS.reaeration.station.04","2015-03-05T12:27Z",337.10,256.20,256.20,256.10,256.10,"Y","CUPE.B4.20150305.TCR",,"Temp.21.0 C; 8:27 am",
+"50ece761-5747-4009-aa40-5f11b351169b","D04","CUPE","CUPE.AOS.reaeration.station.03","2015-03-05T12:49Z",258.20,256.70,256.70,256.70,256.60,"Y","CUPE.B3.20150305.TCR",,"Temp.21.0 C; 8:49 am",
+"45ccc8c1-ff24-4906-913c-2c579b53d86d","D04","CUPE","CUPE.AOS.reaeration.station.02","2015-03-05T13:04Z",147.80,257.00,257.10,257.00,257.00,"Y","CUPE.B2.20150305.TCR",,"Temp.21.1 C; 9:04 am",
+"fce6e29d-c9ab-492a-82b7-c3a3ea789150","D04","CUPE","CUPE.AOS.reaeration.station.01","2015-03-05T13:25Z",31.00,257.20,257.20,257.20,257.20,"Y","CUPE.B1.20150305.TCR",,"Temp. 21.2 C ; 9:25am",
+"a41c68cb-cd85-4382-8425-8345ee3c9da9","D04","CUPE","CUPE.AOS.reaeration.station.04","2015-03-26T12:30Z",344.50,258.50,258.40,258.40,258.20,"Y","CUPE.B4.20150326.TCR",,"temp. 21.3C; 8:30am",
+"9fa55f75-0e79-47af-9a86-f17ca17adbec","D04","CUPE","CUPE.AOS.reaeration.station.02","2015-03-26T12:30Z",153.70,257.50,257.30,257.60,257.50,"Y","CUPE.B2.20150326.TCR",,"temp. 21.4C; 9:25am",
+"67d0b957-a74c-4f4f-9c87-3f330c18ecd0","D04","CUPE","CUPE.AOS.reaeration.station.01","2015-03-26T12:30Z",33.30,257.00,257.00,257.00,257.00,"Y","CUPE.B1.20150326.TCR",,"temp. 21.5C; 9:41am",
+"0afe22b8-03b4-43f1-8948-f367a6f6d053","D04","CUPE","CUPE.AOS.reaeration.station.03","2015-03-26T12:30Z",255.40,258.00,258.00,258.00,257.90,"Y","CUPE.B3.20150326.TCR",,"temp. 21.3C; 9:00am",

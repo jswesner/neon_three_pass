@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"ff2be915-08cd-4c72-ac0d-9396588b932a","D12","BLDE","BLDE.AOS.reaeration.station.02","2020-10-19T15:12Z",3.70,112.90,,,,,
+"303abb78-d40b-424d-aeb8-fe902a70330f","D12","BLDE","BLDE.AOS.reaeration.station.01","2020-10-19T15:12Z",3.50,112.90,,,,,
+"0a8e20e4-83d4-41cb-adbb-451d76f97e77","D12","BLDE","BLDE.AOS.reaeration.station.04","2020-10-19T15:12Z",4.10,113.00,,,,,"Air pulled in to approximately 65 mL for sample 16"
+"84ed95bd-56da-4909-add8-11803c2daa5d","D12","BLDE","BLDE.AOS.reaeration.station.03","2020-10-19T15:12Z",4.10,112.90,,,,,

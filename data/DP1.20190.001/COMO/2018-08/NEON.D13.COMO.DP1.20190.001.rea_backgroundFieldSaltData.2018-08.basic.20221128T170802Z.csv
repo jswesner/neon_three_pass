@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"6f283fef-84f9-4e88-8d46-ca16c8f27a54","D13","COMO","COMO.AOS.reaeration.station.01","2018-08-06T15:31Z",18.60,,,,,"Y","COMO.B1.20180806.TCR","A00000031503",,
+"0ba994e4-9ea4-4a6d-9e41-0e5cb7d59b52","D13","COMO","COMO.AOS.reaeration.station.04","2018-08-06T15:31Z",101.60,30.10,30.50,31.00,30.80,"Y","COMO.B4.20180806.TCR","A00000031505",,
+"caee960f-ea1c-4133-898c-86958c124834","D13","COMO","COMO.AOS.reaeration.station.03","2018-08-06T15:31Z",68.60,31.10,30.50,30.80,30.00,"Y","COMO.B3.20180806.TCR","A00000031502",,
+"b034c69f-a925-4018-9a07-ca97a35faf0a","D13","COMO","COMO.AOS.reaeration.station.02","2018-08-06T15:31Z",38.60,29.50,30.00,30.11,30.20,"Y","COMO.B2.20180806.TCR","A00000031501",,

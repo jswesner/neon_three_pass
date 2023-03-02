@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"184e5694-db23-41e4-ac6b-8321672b9c44","D04","GUIL","GUIL.AOS.reaeration.station.01","2021-03-03T12:51Z",20.40,264.00,264.20,262.50,263.70,263.30,
+"c844b8da-bba0-4e49-af30-34973546fd12","D04","GUIL","GUIL.AOS.reaeration.station.04","2021-03-03T12:51Z",20.90,261.20,,,,,
+"3889df66-d926-4303-9c98-f10c65cd1877","D04","GUIL","GUIL.AOS.reaeration.station.02","2021-03-03T12:51Z",20.60,262.00,,,,,
+"88a00125-cb88-469d-a2d4-240b4c909704","D04","GUIL","GUIL.AOS.reaeration.station.03","2021-03-03T12:51Z",20.80,261.50,,,,,"Via 15 might be under pressurized due to gas lost in stopcock breakage"

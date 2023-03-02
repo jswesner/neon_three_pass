@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"9014bf58-9bb5-4038-920a-54b2cf1458bf","D13","COMO","COMO.AOS.reaeration.station.02","2020-10-15T15:36Z",0.80,44.80,,,,,"Lost sample 06. Syringe/stopcock cracked"
+"8bb0ce48-5faf-40c6-827d-7ad859f95068","D13","COMO","COMO.AOS.reaeration.station.03","2020-10-15T15:36Z",0.80,45.40,,,,,
+"9f74bef3-2ab2-4109-a998-918b82592ca0","D13","COMO","COMO.AOS.reaeration.station.01","2020-10-15T15:36Z",0.90,43.30,,,,,
+"104f8e13-c2f1-4455-bb83-b80054c35dc3","D13","COMO","COMO.AOS.reaeration.station.04","2020-10-15T15:36Z",0.90,48.00,,,,,

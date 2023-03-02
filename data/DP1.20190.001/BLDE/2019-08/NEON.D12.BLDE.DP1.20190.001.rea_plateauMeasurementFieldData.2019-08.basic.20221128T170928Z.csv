@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"7956150c-cc60-4a75-9abd-df43aed0cda2","D12","BLDE","BLDE.AOS.reaeration.station.01","2019-08-01T15:35Z",14.60,86.50,,,,,
+"fccae75f-12c0-4c36-9123-2122cc41b3ca","D12","BLDE","BLDE.AOS.reaeration.station.02","2019-08-01T15:35Z",15.30,90.20,,,,,
+"afdf9c75-f137-40b7-81b7-75eb75a999de","D12","BLDE","BLDE.AOS.reaeration.station.04","2019-08-01T15:35Z",15.50,88.40,,,,,
+"fced7872-906d-4468-8ee5-69c82b545b25","D12","BLDE","BLDE.AOS.reaeration.station.03","2019-08-01T15:35Z",15.10,88.80,,,,,
+"6770dbc6-7492-4893-91ac-54cce60945da","D12","BLDE","BLDE.AOS.reaeration.station.03","2019-08-20T15:16Z",13.50,101.00,,,,,
+"1f202da9-80fa-49a1-8e36-9443a8bdab8d","D12","BLDE","BLDE.AOS.reaeration.station.04","2019-08-20T15:16Z",13.80,101.30,,,,,
+"84c794f3-5e4a-4f75-954a-214ddb0c6648","D12","BLDE","BLDE.AOS.reaeration.station.02","2019-08-20T15:16Z",13.70,100.30,,,,,
+"3c9d3317-d4e0-459e-96d1-32784f6c13bc","D12","BLDE","BLDE.AOS.reaeration.station.01","2019-08-20T15:16Z",13.60,100.90,,,,,

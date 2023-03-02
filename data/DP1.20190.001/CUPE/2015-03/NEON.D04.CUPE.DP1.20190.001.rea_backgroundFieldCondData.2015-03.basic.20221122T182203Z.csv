@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"afaeb7b8-f237-4564-842b-e38a126045a0","D04","CUPE","CUPE.AOS.reaeration.station.04","2015-03-05T12:27Z",,"CUPE_S4_20150305"
+"b1a4c406-6a24-4f35-8e1d-230c87546eee","D04","CUPE","CUPE.AOS.reaeration.station.01","2015-03-05T13:25Z",,"CUPE_S1_20150305"
+"52b7cd0b-d1e9-4fbe-b767-09b5bc28f950","D04","CUPE","CUPE.AOS.reaeration.station.04","2015-03-26T12:30Z",,"CUPE_S4_20150326"
+"71ef8f27-ff8e-4ce2-af77-d57b7542eb7e","D04","CUPE","CUPE.AOS.reaeration.station.01","2015-03-26T12:30Z",,"CUPE_S1_20150326"

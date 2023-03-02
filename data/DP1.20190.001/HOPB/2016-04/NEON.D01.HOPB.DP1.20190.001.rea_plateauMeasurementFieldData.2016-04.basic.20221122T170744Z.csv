@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"48bfe7fc-8408-4b71-947b-20f76b976cf0","D01","HOPB","HOPB.AOS.reaeration.station.03","2016-04-14T10:30Z",7.40,103.90,103.90,103.90,103.90,103.90,
+"cec7b472-e05c-4988-9132-b5fb88ea19b7","D01","HOPB","HOPB.AOS.reaeration.station.01","2016-04-14T10:30Z",7.40,103.90,103.90,103.90,103.90,103.90,
+"85caf6a7-a29d-4968-bdae-f7be36f16a53","D01","HOPB","HOPB.AOS.reaeration.station.04","2016-04-14T10:30Z",7.40,103.90,103.90,103.90,103.90,103.90,
+"5a42c499-ec28-40c1-b909-96d81b41b648","D01","HOPB","HOPB.AOS.reaeration.station.02","2016-04-14T10:30Z",7.20,103.90,103.90,103.90,103.90,103.90,
+"cd562fc0-a68e-4615-be0e-ea9d37095607","D01","HOPB","HOPB.AOS.reaeration.station.03","2016-04-28T09:26Z",8.60,72.90,72.90,72.90,72.90,72.90,
+"232eaf3f-b05b-491c-80ec-3fe10314ab12","D01","HOPB","HOPB.AOS.reaeration.station.01","2016-04-28T09:26Z",8.20,72.90,72.90,72.90,72.90,72.90,
+"a3374fbc-bcfc-47a5-8a60-6fe227256ccd","D01","HOPB","HOPB.AOS.reaeration.station.04","2016-04-28T09:26Z",9.00,72.90,72.90,72.90,72.90,72.90,
+"b4314055-ba93-4279-8b5c-f450bdcb8781","D01","HOPB","HOPB.AOS.reaeration.station.02","2016-04-28T09:26Z",8.20,72.90,72.90,72.90,72.90,72.90,

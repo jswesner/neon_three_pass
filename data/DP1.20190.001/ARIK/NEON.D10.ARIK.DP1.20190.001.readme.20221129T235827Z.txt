@@ -1,0 +1,166 @@
+This data package was produced by and downloaded from the National Ecological Observatory Network (NEON). NEON is funded by the National Science Foundation (Awards 0653461, 0752017, 1029808, 1138160, 1246537, 1638695, 1638696, 1724433) and managed cooperatively by Battelle. These data are provided under the terms of the NEON data policy at https://www.neonscience.org/data-policy.
+
+DATA PRODUCT INFORMATION
+------------------------
+
+ID: NEON.DOM.SITE.DP1.20190.001
+
+Name: Reaeration field and lab collection
+
+Description: Field and external laboratory data from the salt-tracer and gas injection field reaeration measurements, including stream widths, inert gas concentrations, conservative tracer concentrations, and conductivity times series.
+
+NEON Science Team Supplier: Aquatic Observation System
+
+Abstract: This data product contains the quality-controlled, native sampling resolution data from NEON's wadeable stream reaeration sampling protocol. During most reaeration experiments, grab samples of stream water at NEON aquatic sites are collected in streams at 4 sampling locations downstream of a continuous injection of an inert gas (SF6) and conservative tracer (NaCl or NaBr). Background samples are collected prior to tracer injection and are analyzed for background salt tracer concentrations. Plateau samples are collected once the tracer concentration reaches a constant concentration (as measured by conductivity) and 5 replicate samples from each station are analyzed for both salt and gas tracer concentrations. Data users should refer to the user guide for reaeration and salt-based discharge see `NEON_ReaerSaltBasedQ_userGuide` for suggestions on how to calculate reaeration rates from the published data packages. For additional details, see the user guide, protocols, and science design listed in the Documentation section in this data product's details webpage. During some reaeration experiments, denoted by injectionType “model - slug” or “model - CRI”, only the conservative tracer is injected, either via slug or constant rate, (i.e., inert gas is not injected). See NEON Data Product User Guide to Reaeration (DP1.20190.001) and Salt-based Discharge Sampling (DP1.20193.001) for more detail about when and where model type injections are used.
+
+Latency:
+The expected time from data and/or sample collection in the field to data publication is as follows, for each of the data tables (in days) in the downloaded data package. See the Data Product User Guide for more information.
+
+rea_backgroundFieldCondData:  30
+
+rea_backgroundFieldSaltData:  30
+
+rea_conductivityFieldData:  30
+
+rea_externalLabDataGas:  120
+
+rea_externalLabDataSalt:  120
+
+rea_fieldData:  30
+
+rea_plateauMeasurementFieldData:  30
+
+rea_plateauSampleFieldData:  30
+
+rea_widthFieldData:  30
+
+sdg_externalLabSummaryData:  14
+
+Brief Design Description: Tracer injections are completed 6 times per year to capture a range of flows at NEON wadeable stream sites. The first sampling station is located near sensor set #1 and the fourth sampling station is located near sensor set #2. Sampling stations #2 and #3 are approximately evenly spaced between sampling stations #1 and #4. The injection (drip) station is located far enough upstream of sampling station #1 that the tracer is well mixed within the stream channel for all sampling stations. Conductivity data loggers are located near sampling stations #1 and #4 to capture the rising limb and plateau (for constant rate injections) and falling limb (for slug injections) in situ conductivity values.
+
+Brief Study Area Description: This data product is measured at NEON wadeable stream sites.
+
+Sensor(s): YSI Pro2030, HOBO U24
+
+Keywords: aquatic, conductivity, discharge, injection, travel time, chloride (Cl-), flow, streams, reaeration rate, velocity, salt, metabolism, tracer, streamflow, rea, deaeration, wetted width, sulfur hexafluoride (SF6), bromide (Br-)
+
+
+QUERY INFORMATION
+-----------------
+
+Date-Time for Data Publication: 2022-11-29 23:58 (UTC)
+Start Date-Time for Queried Data: 2022-05-24 21:46 (UTC)
+End Date-Time for Queried Data: 2022-05-24 21:46 (UTC)
+
+Site: ARIK
+Geographic coordinates (lat/long datum): 
+Domain: D10
+
+
+DATA PACKAGE CONTENTS
+---------------------
+
+This folder contains the following documentation files:
+
+- This readme file: NEON.D10.ARIK.DP1.20190.001.readme.20221129T235827Z.txt
+- Term descriptions, data types, and units: NEON.D10.ARIK.DP1.20190.001.variables.20221129T235827Z.csv
+- Data entry validation and parsing rules: NEON.D10.ARIK.DP1.20190.001.validation.20221129T235827Z.csv
+- Machine-readable metadata file describing the data package: NEON.D10.ARIK.DP1.20190.001.EML.20220524-20220524.20221129T235827Z.xml. This file uses the Ecological Metadata Language schema. Learn more about this specification and tools to parse it at https://www.neonscience.org/about/faq.
+- Other related documents, such as engineering specifications, field protocols and data processing documentation, are available. Please visit https://data.neonscience.org/data-products/DP1.20190.001 for more information.
+
+
+This folder also contains 4 data files:
+NEON.D10.ARIK.DP1.20190.001.rea_backgroundFieldCondData.2022-05.basic.20221129T235827Z.csv - Background conductivity logger per station per date
+NEON.D10.ARIK.DP1.20190.001.rea_conductivityFieldData.2022-05.basic.20221129T235827Z.csv - Reaeration logger field data
+NEON.D10.ARIK.DP1.20190.001.rea_widthFieldData.2022-05.basic.20221129T235827Z.csv - Wetted width per site per date
+NEON.D10.ARIK.DP1.20190.001.rea_fieldData.2022-05.basic.20221129T235827Z.csv - Field data per site per date
+
+Basic download package definition: The basic package contains the primary tracer concentration measurements and relevant field measurements and metadata.
+
+Expanded download package definition: The expanded version includes the external lab metadata file.
+
+
+FILE NAMING CONVENTIONS
+-----------------------
+
+NEON data files are named using a series of component abbreviations separated by periods. File naming conventions for NEON data files differ between NEON science teams. A file will have the same name whether it is accessed via NEON's data portal or API. Please visit https://www.neonscience.org/data-formats-conventions for a full description of the naming conventions.
+
+ISSUE LOG
+----------
+
+This log provides a list of issues that were identified during data collection or processing, prior to publication of this data package. For a more recent log, please visit this data product's detail page at https://data.neonscience.org/data-products/DP1.20190.001.
+
+Issue Date: 2022-09-15
+Issue: Toolik Field Station required a quarantine period prior to starting work in the 2020, 2021, and 2022 field seasons to protect all personnel during the COVID-19 pandemic. This complicated NEON field scheduling logistics, which typically involves repeated travel across the state on short time frames. Consequently, NEON reduced staff traveling to Toolik and was thus unable to complete all planned sampling efforts. Missed data collection events are indicated in data records via the samplingImpractical field.
+       Date Range: 2020-03-23 to 2022-12-31
+       Location(s) Affected: OKSR
+Resolution Date: 
+Resolution: 
+
+Issue Date: 2022-09-15
+Issue: Severe flooding destroyed several roads into Yellowstone National Park in June 2022, making the YELL and BLDE sites inaccessible to NEON staff. Observational data collection was halted during this time. Canceled data collection events are indicated in data records via the samplingImpractical field.
+       Date Range: 2022-06-12 to 2022-12-31
+       Location(s) Affected: BLDE
+Resolution Date: 
+Resolution: 
+
+Issue Date: 2022-08-18
+Issue: Logger in/out times: External user feedback noted difficulty in determining the time when the loggers were deployed since some are launched and stopped at the Domain support facility to avoid dust and debris that can interfere with data transfer.
+       Date Range: 2012-01-01 to 2022-06-30
+       Location(s) Affected: All Stream Sites
+Resolution Date: 2022-06-30
+Resolution: The date and time when the logger is placed in the water and removed from the water is now recorded in the fields: loggerInWaterDateTime and loggerInWaterDateTime in `rea_fieldData` table.
+
+Issue Date: 2021-01-06
+Issue: Safety measures to protect personnel during the COVID-19 pandemic resulted in reduced or canceled sampling activities for extended periods at NEON sites. Data availability may be reduced during this time.
+       Date Range: 2020-03-23 to 2021-12-31
+       Location(s) Affected: All
+Resolution Date: 2021-12-31
+Resolution: The primary impact of the pandemic on observational data was reduced data collection. Training procedures and data quality reviews were maintained throughout the pandemic, although some previously in-person training was conducted virtually.  Scheduled measurements and sampling that were not carried out due to COVID-19 or any other causes are indicated in data records via the samplingImpractical data field.
+
+Issue Date: 2020-10-28
+Issue: No sampling impractical: Before 2020, 10 (collection years 2014-2017) or 6 (collection years 2018-2019) reaeration experiments would be expected each year, represented by a record in the `rea_fieldData` table. In cases where fewer than the maximum number of records were generated per year, this reflects lower levels of sampling effort and additional records should not be expected.
+       Date Range: 2014-01-01 to 2020-03-31
+       Location(s) Affected: All Stream Sites
+Resolution Date: 2020-03-31
+Resolution: In 2020, NEON added the quality flag "samplingImpractical" to the `rea_fieldData` table in this data product to assist users in understanding when data for this product are temporarily missing versus permanently unavailable. Beginning in 2020, there will *always* be 6 records generated per year for each site that performs reaeration experiments.
+
+Issue Date: 2020-10-28
+Issue: Change to bout numbers: Prior to the 2018 field season, 10 reaeration bouts were attempted each year per site. However, not all bouts were complete due to logistical or environmental field challenges.
+       Date Range: 2014-01-01 to 2018-01-01
+       Location(s) Affected: All Stream Sites
+Resolution Date: 2018-01-01
+Resolution: Protocol change to reduce annual bouts from 10 attempted to 6 complete.
+
+Issue Date: 2020-10-28
+Issue: Temporal sampling change: Prior to the 2018 field season, reaeration schedules were spread evenly throughout the calendar year rather than being based on hydrologic conditions at a site.
+       Date Range: 2014-01-01 to 2018-01-01
+       Location(s) Affected: All Stream Sites
+Resolution Date: 2018-01-01
+Resolution: Refined guidance on when to conduct experiments to capture the full range of the hydrograph based on data collected to date.
+
+Issue Date: 2020-10-28
+Issue: Collection method adjusted: Prior to the 2018 field season, flows at BLUE were too large to add enough tracer to detect and ARIK had flows that were too slow to come to plateau in a reasonable time.
+       Date Range: 2014-01-01 to 2018-01-01
+       Location(s) Affected: BLUE and ARIK
+Resolution Date: 2018-01-01
+Resolution: Adjust data collection methods at 2 sites were reaeration can be modeled with little impact to data (ARIK and BLUE).
+
+
+ADDITIONAL INFORMATION
+----------------------
+
+
+Queries for this data product for most sites will usually return data from the date range specified for `rea_fieldData`,  `rea_backgroundFieldSaltData`, `rea_backgroundFieldCondData`, `rea_plateauMeasurementFieldData`, `rea_plateauSampleFieldData`, `rea_widthFieldData`, `rea_externalLabDataGas`, `rea_externalLabDataSalt` and `rea_conductivityFieldData`. The `rea_externalLabSummaryData` from all dates and from relevant external laboratories will be returned with the expanded package. The protocol dictates that the tracer injection will take place at each siteID per event (one record expected per siteID and collectedDate combination in `rea_fieldData`).  A record from `rea_fieldData` will usually have 4 child records in `rea_backgroundFieldSaltData` and `rea_plateauMeasurementFieldData` (one for each sampling station), two child records in `rea_backgroundFieldCondData` (one for the upstream, station #1 and downstream, station #4 stations where conductivity loggers are deployed), many child records in `rea_conductivityFieldData` (logger conductivity data is collected and a record is created every 10 seconds during the duration of the injection experiment). 30 records are created in `rea_widthFieldData` (one for each wetted width measurement) for each injection experiment. Each record from `rea_plateauMeasurementFieldData` is expected to have 5 child records in `rea_plateauSampleFieldData` (one for each replicate collected at the station). Each record from `rea_backgroundFieldSaltData` (background samples), `rea_plateauMeasurementFieldData` (plateau samples), and `rea_fieldData` (injectate sample) is expected to have one child record in `rea_externalLabDataSalt` with the salt tracer concentration. Each record from `rea_plateauMeasurementFieldData` is expected to have one child record in `rea_externalLabDataGas` with the gas tracer concentration. In cases where the external lab re-runs a sample following QAQC at NEON, there may be more than one external lab concentration for a given sampleID. Users should handle these analytical duplicates in an appropriate manner for their analysis. Duplicates and/or missing data may also exist where protocol and/or data entry aberrations have occurred; users should check data carefully for anomalies before joining tables.
+
+NEON DATA POLICY AND CITATION GUIDELINES
+----------------------------------------
+
+A citation statement is available in this data product's detail page at https://data.neonscience.org/data-products/DP1.20190.001. Please visit https://www.neonscience.org/data-policy for more information about NEON's data policy and citation guidelines.
+
+DATA QUALITY AND VERSIONING
+---------------------------
+
+NEON data are initially published with a status of Provisional, in which updates to data and/or processing algorithms will occur on an as-needed basis, and query reproducibility cannot be guaranteed. Once data are published as part of a Data Release, they are no longer provisional, and are associated with a stable DOI. 
+
+To learn more about provisional versus released data, please visit https://www.neonscience.org/data-revisions-releases.

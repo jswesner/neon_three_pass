@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"527f51db-06a0-4a6f-a259-1d3dfa852244","D04","CUPE","CUPE.AOS.reaeration.station.01","2021-11-01T12:01Z",23.30,302.60,302.20,302.80,302.70,302.30,"Sample 5 plunger malfunction ambient air enter to the syringe during sample injection"
+"d38a582f-c197-41fb-9c82-d53efbf563d9","D04","CUPE","CUPE.AOS.reaeration.station.04","2021-11-01T12:01Z",23.60,302.10,,,,,
+"f8256225-6986-4e8e-acfc-54105a4c395d","D04","CUPE","CUPE.AOS.reaeration.station.02","2021-11-01T12:01Z",23.40,302.40,,,,,
+"49d3abf5-0995-4d72-9f77-3bdf543637cf","D04","CUPE","CUPE.AOS.reaeration.station.03","2021-11-01T12:01Z",23.40,302.40,,,,,

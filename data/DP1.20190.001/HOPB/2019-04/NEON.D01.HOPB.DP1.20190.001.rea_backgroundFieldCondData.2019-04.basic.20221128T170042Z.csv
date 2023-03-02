@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"8bf270af-6110-43fe-b270-50c0c3567e7b","D01","HOPB","HOPB.AOS.reaeration.station.01","2019-04-22T15:39Z",28.00,"HOPB_S1_20190422"
+"d3597c39-8c14-449f-8f3d-784aa7d1af87","D01","HOPB","HOPB.AOS.reaeration.station.04","2019-04-22T15:39Z",295.00,"HOPB_S4_20190422"

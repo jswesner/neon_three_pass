@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"4cfa728d-24a8-406a-80bc-e17b86797f1c","D04","CUPE","CUPE.AOS.reaeration.station.04","2017-06-09T12:19Z",24.20,325.80,,,,,"Light rain"
+"6d5604eb-605b-4e88-b9b5-27e13231ac17","D04","CUPE","CUPE.AOS.reaeration.station.02","2017-06-09T12:19Z",24.20,326.20,,,,,"Light rain"
+"8b077701-b18c-4143-aeac-65cefd8b9834","D04","CUPE","CUPE.AOS.reaeration.station.03","2017-06-09T12:19Z",24.20,325.80,,,,,"Light rain"
+"19e8d115-9ef8-4fc9-982d-1f13feafa55b","D04","CUPE","CUPE.AOS.reaeration.station.01","2017-06-09T12:19Z",24.20,326.50,326.50,326.50,326.40,326.40,

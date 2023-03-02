@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"499102d0-ab85-4e33-814e-12d0c38a0258","D01","HOPB","HOPB.AOS.reaeration.station.02","2021-05-31T15:55Z",10.90,90.20,,,,,"HOPB.10.20210531.TCR cap was not screwed on completely - most of sample lost"
+"cbb6924a-62f7-4910-82f9-2212258c8363","D01","HOPB","HOPB.AOS.reaeration.station.03","2021-05-31T15:55Z",10.90,92.50,,,,,
+"4f4047fe-f4d8-425f-8af1-c1525ae73286","D01","HOPB","HOPB.AOS.reaeration.station.04","2021-05-31T15:55Z",10.90,93.80,,,,,
+"72b07fd8-d1b4-4ca7-bf1f-5b91115da60c","D01","HOPB","HOPB.AOS.reaeration.station.01","2021-05-31T15:55Z",10.90,88.80,,,,,

@@ -1,0 +1,8 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"d64e39ff-fe12-4adf-92b2-0cb8f9a3898e","D04","CUPE","CUPE.AOS.reaeration.station.02","2016-07-28T10:55Z",24.00,300.20,300.20,300.10,300.10,300.10,
+"6127850b-41c2-4d34-910b-4df6fc5641f6","D04","CUPE","CUPE.AOS.reaeration.station.01","2016-07-28T10:55Z",23.90,300.20,300.20,300.10,300.10,300.10,"droplets of water in gas vial"
+"2a8eb2b0-54f1-4c78-917f-65b049240675","D04","CUPE","CUPE.AOS.reaeration.station.01","2016-07-28T10:55Z",23.90,300.20,300.20,300.10,300.10,300.10,
+"36883dfc-35ca-4df0-8d93-3f4134d6a72b","D04","CUPE","CUPE.AOS.reaeration.station.04","2016-07-28T10:55Z",24.10,300.20,300.20,300.10,300.10,300.10,"water sample lost NEON-3341"
+"6459bf60-be38-4a1d-884a-22fc10ed9185","D04","CUPE","CUPE.AOS.reaeration.station.04","2016-07-28T10:55Z",24.10,300.20,300.20,300.10,300.10,300.10,
+"37b8ffb7-6d7a-4259-b967-648476678adc","D04","CUPE","CUPE.AOS.reaeration.station.03","2016-07-28T10:55Z",24.00,300.20,300.20,300.10,300.10,300.10,
+"c5b84744-8245-4bed-9763-d919b6122125","D04","CUPE","CUPE.AOS.reaeration.station.03","2016-07-28T10:55Z",24.00,300.20,300.20,300.10,300.10,300.10,"droplets of water in gas vial"

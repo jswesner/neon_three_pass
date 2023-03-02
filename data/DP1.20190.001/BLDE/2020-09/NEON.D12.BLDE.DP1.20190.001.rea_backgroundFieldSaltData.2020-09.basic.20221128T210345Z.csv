@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"f0bd0e62-5c38-4e0b-8ca9-cf77efdad100","D12","BLDE","BLDE.AOS.reaeration.station.02","2020-09-10T15:55Z",148.00,109.00,109.00,108.60,108.90,"Y","BLDE.B2.20200910.TCR","A00000117163",,
+"8801c255-3d7e-4d08-b3c1-91dd629673b6","D12","BLDE","BLDE.AOS.reaeration.station.03","2020-09-10T15:55Z",260.00,108.40,108.70,108.80,108.80,"Y","BLDE.B3.20200910.TCR","A00000117164",,
+"a3f1ab61-86f8-471b-a1ea-1b30f4117671","D12","BLDE","BLDE.AOS.reaeration.station.04","2020-09-10T15:55Z",398.00,107.50,108.70,108.80,109.00,"Y","BLDE.B4.20200910.TCR","A00000117170",,
+"1f245db3-0e57-4f9a-a0a0-8c53ab6aa11f","D12","BLDE","BLDE.AOS.reaeration.station.01","2020-09-10T15:55Z",34.00,109.40,109.10,109.10,109.10,"Y","BLDE.B1.20200910.TCR","A00000117181",,

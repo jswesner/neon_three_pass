@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"f108d0e1-a50e-41ea-b79a-e6e33ae77387","D13","COMO","COMO.AOS.reaeration.station.02","2020-07-15T15:37Z",9.10,21.70,,,,,
+"22a81878-f644-495b-82b3-5e2171c6b796","D13","COMO","COMO.AOS.reaeration.station.04","2020-07-15T15:37Z",9.40,21.10,,,,,
+"df5b473a-5a53-4c79-a4b9-b06fe1fb7dea","D13","COMO","COMO.AOS.reaeration.station.03","2020-07-15T15:37Z",9.20,21.80,,,,,
+"fb3a0bc6-9448-4500-9fd2-2b6e5ed4c6ce","D13","COMO","COMO.AOS.reaeration.station.01","2020-07-15T15:37Z",9.00,22.20,,,,,
+"cecb9634-bc0d-433c-a1bc-202d921f1403","D13","COMO","COMO.AOS.reaeration.station.01","2020-07-29T16:44Z",9.90,28.70,,,,,
+"b9479fdd-6328-46d3-aabc-038b228acf34","D13","COMO","COMO.AOS.reaeration.station.04","2020-07-29T16:44Z",10.30,27.70,,,,,
+"2932b468-8450-412f-9aaf-8f0de75155a4","D13","COMO","COMO.AOS.reaeration.station.02","2020-07-29T16:44Z",9.90,27.90,,,,,"Syringe 10 stopcock damaged vial may be compromised"
+"7f8a9079-8fa6-4e2b-a26b-457bce3b8da9","D13","COMO","COMO.AOS.reaeration.station.03","2020-07-29T16:44Z",10.20,27.90,,,,,

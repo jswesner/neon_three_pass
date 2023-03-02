@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"0a81fc91-8edd-4338-8599-11b7992d1c86","D10","ARIK","ARIK.AOS.reaeration.station.04","2021-11-30T21:48Z",190.00,"ARIK_S4_20211130"
+"87339154-daa6-431f-ac08-03c390e9a0a8","D10","ARIK","ARIK.AOS.reaeration.station.01","2021-11-30T21:48Z",50.00,"ARIK_S1_20211130"

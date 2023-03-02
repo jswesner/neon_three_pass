@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"210dd038-2c80-4206-9a50-be4fe44d61fa","D01","HOPB","HOPB.AOS.reaeration.station.03","2019-11-06T14:46Z",6.40,112.80,,,,,"Vial 15 needle came off of syringe letting gas out"
+"f878c98d-ab9b-49c5-8776-6153ef32a8d4","D01","HOPB","HOPB.AOS.reaeration.station.04","2019-11-06T14:46Z",6.30,112.10,,,,,
+"fae4e028-62bd-44b6-8e92-f25b9e8c18f4","D01","HOPB","HOPB.AOS.reaeration.station.02","2019-11-06T14:46Z",6.40,109.60,,,,,
+"77195a98-b097-42e3-ae52-75edb4d9cd95","D01","HOPB","HOPB.AOS.reaeration.station.01","2019-11-06T14:46Z",6.30,112.60,,,,,

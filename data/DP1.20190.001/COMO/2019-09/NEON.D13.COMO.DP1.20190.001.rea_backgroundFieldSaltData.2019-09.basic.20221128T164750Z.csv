@@ -1,0 +1,8 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"4e5c2fff-c4ec-4bf6-a08f-da88089d7c21","D13","COMO","COMO.AOS.reaeration.station.02","2019-09-16T16:44Z",30.00,34.10,34.00,34.00,34.20,"Y","COMO.B2.20190916.TCR","A00000092206",,"externalLabSaltSampleDataNA"
+"7544013a-c487-4b52-8f3d-a43168e805a9","D13","COMO","COMO.AOS.reaeration.station.01","2019-09-16T16:44Z",10.00,34.20,34.10,34.20,34.10,"Y","COMO.B1.20190916.TCR","A00000092220",,"externalLabSaltSampleDataNA"
+"3ef44f7b-1ed1-45fd-987f-c43d005bbe7e","D13","COMO","COMO.AOS.reaeration.station.04","2019-09-16T16:44Z",93.00,36.90,35.70,34.30,34.40,"Y","COMO.B4.20190916.TCR","A00000092219",,"externalLabSaltSampleDataNA"
+"7337f86f-61a1-482c-b1a8-4278304365c2","D13","COMO","COMO.AOS.reaeration.station.04","2019-09-30T16:29Z",101.60,36.70,,,,"Y","COMO.B4.20190930.TCR","A00000092339",,
+"e5d5aa6d-8b3f-438c-b4f2-ed287f366d45","D13","COMO","COMO.AOS.reaeration.station.03","2019-09-30T16:29Z",68.60,37.30,,,,"Y","COMO.B3.20190930.TCR","A00000092338",,
+"1b343666-85b0-4b35-b4c3-56d0c50fbf3d","D13","COMO","COMO.AOS.reaeration.station.02","2019-09-30T16:29Z",38.60,37.00,,,,"Y","COMO.B2.20190930.TCR","A00000092340",,
+"d8119c73-af26-4b5e-8c2e-6c91f881f37b","D13","COMO","COMO.AOS.reaeration.station.01","2019-09-30T16:29Z",18.60,37.90,,,,"Y","COMO.B1.20190930.TCR","A00000092341",,

@@ -1,0 +1,13 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"7191848a-6ac1-474e-a195-c3b051b08324","D13","COMO","COMO.AOS.reaeration.station.04","2017-08-02T16:02Z",101.60,29.60,28.50,28.30,28.30,"Y","COMO.B4.20170802.TCR",,,
+"7919f6aa-2f57-4cf1-a50c-fe8e88c15dda","D13","COMO","COMO.AOS.reaeration.station.03","2017-08-02T16:02Z",68.60,29.40,29.30,28.70,28.80,"Y","COMO.B3.20170802.TCR",,,
+"d0b8f021-5541-4221-8aed-90f3c60b48b9","D13","COMO","COMO.AOS.reaeration.station.01","2017-08-02T16:02Z",18.60,30.20,28.70,28.30,29.40,"Y","COMO.B1.20170802.TCR",,,
+"d4255c1b-366f-4e9c-a7c4-ac641b1141e8","D13","COMO","COMO.AOS.reaeration.station.02","2017-08-02T16:02Z",38.60,29.20,28.50,28.70,28.60,"Y","COMO.B2.20170802.TCR",,,
+"9d9295b8-e890-4f2f-979b-32f3dbbf7931","D13","COMO","COMO.AOS.reaeration.station.01","2017-08-08T16:40Z",18.60,25.60,26.20,28.40,25.90,"Y","COMO.B1.20170808.TCR",,,
+"61388afd-b3ae-4ac1-b7a1-6d401a9cfbfc","D13","COMO","COMO.AOS.reaeration.station.04","2017-08-08T16:40Z",101.60,25.90,26.20,27.70,26.10,"Y","COMO.B4.20170808.TCR",,,
+"a9293797-f18f-4002-9dc0-775a7130146c","D13","COMO","COMO.AOS.reaeration.station.02","2017-08-08T16:40Z",38.60,26.40,26.30,26.00,26.00,"Y","COMO.B2.20170808.TCR",,,
+"30bd4a8b-add0-4b07-89c0-d2d0c05cf296","D13","COMO","COMO.AOS.reaeration.station.03","2017-08-08T16:40Z",68.60,26.60,26.30,25.70,22.50,"Y","COMO.B3.20170808.TCR",,,
+"ef12635f-3bf1-4606-bdb0-33b14984c294","D13","COMO","COMO.AOS.reaeration.station.01","2017-08-22T16:07Z",18.60,25.80,33.00,41.10,32.70,"Y","COMO.B1.20170822.TCR",,,
+"95c02679-cbee-40c8-9db5-318195a8e4ab","D13","COMO","COMO.AOS.reaeration.station.02","2017-08-22T16:07Z",38.60,35.20,34.50,31.70,32.90,"Y","COMO.B2.20170822.TCR",,,
+"8fccfbd3-8caa-4672-808f-0f749a208978","D13","COMO","COMO.AOS.reaeration.station.03","2017-08-22T16:07Z",68.60,19.60,20.30,31.90,34.00,"Y","COMO.B3.20170822.TCR",,,
+"3471ac3f-a49f-47c9-a882-ee2f80c8c2c3","D13","COMO","COMO.AOS.reaeration.station.04","2017-08-22T16:07Z",101.60,29.30,34.70,27.10,32.80,"Y","COMO.B4.20170822.TCR",,,

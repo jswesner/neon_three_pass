@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"e086f87b-9455-47e1-93bc-2191208181de","D06","KING","KING.AOS.reaeration.station.04","2015-07-21T15:51Z",,"KING_S4_20150721"
+"7ddb9201-db82-456d-9f3d-1c69055e47ae","D06","KING","KING.AOS.reaeration.station.01","2015-07-21T15:51Z",,"KING_S1_20150721"
+"31b7d71a-1e13-4ac4-a100-85db1b0f4ec8","D06","KING","KING.AOS.reaeration.station.01","2015-07-29T16:00Z",,"KING_S1_20150729"
+"82a816d0-7073-42a2-be6d-ee45c9526a3f","D06","KING","KING.AOS.reaeration.station.04","2015-07-29T16:00Z",,"KING_S4_20150729"

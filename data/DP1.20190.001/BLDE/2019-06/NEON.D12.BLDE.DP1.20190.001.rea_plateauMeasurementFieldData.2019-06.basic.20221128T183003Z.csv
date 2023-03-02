@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"4fb140d8-307b-4d03-8304-08ad47fab427","D12","BLDE","BLDE.AOS.reaeration.station.01","2019-06-06T15:43Z",8.40,52.80,,,,,
+"e0b91258-3581-4aee-b64a-8b5af544e7d1","D12","BLDE","BLDE.AOS.reaeration.station.04","2019-06-06T15:43Z",8.30,54.00,,,,,
+"cfb7677f-e455-4b22-8c4e-4c857d9dba67","D12","BLDE","BLDE.AOS.reaeration.station.02","2019-06-06T15:43Z",8.40,53.20,,,,,
+"bc1612c5-9411-43d2-8850-53f711b026da","D12","BLDE","BLDE.AOS.reaeration.station.03","2019-06-06T15:43Z",8.30,53.40,,,,,"Salt tracer sample 11 lost some of the water so there is only about 10 ml"

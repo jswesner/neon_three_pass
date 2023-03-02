@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"75345fd8-5352-44e8-8b72-6e9fac7585bb","D01","HOPB","HOPB.AOS.reaeration.station.02","2016-06-16T10:30Z",130.00,93.80,93.80,93.80,93.80,"Y","HOPB.B2.20160616.TCR",,,
+"4f12b053-aad1-4ed0-afb7-ff1abe546034","D01","HOPB","HOPB.AOS.reaeration.station.01","2016-06-16T10:30Z",28.00,94.20,94.20,94.20,94.20,"Y","HOPB.B1.20160616.TCR",,,
+"ad6bb87a-6815-4e40-8c0a-e64a3bae58b0","D01","HOPB","HOPB.AOS.reaeration.station.04","2016-06-16T10:30Z",365.00,89.60,89.60,89.60,89.60,"Y","HOPB.B4.20160616.TCR",,,
+"8502aa29-517d-42dd-a6a2-8a3cb4c2f253","D01","HOPB","HOPB.AOS.reaeration.station.03","2016-06-16T10:30Z",238.00,92.60,92.60,92.60,92.60,"Y","HOPB.B3.20160616.TCR",,,

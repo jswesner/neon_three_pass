@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"638bacc3-d8e9-4e8e-b203-a49162392c1f","D04","GUIL","GUIL.AOS.reaeration.station.04","2017-05-12T11:44Z",21.30,209.80,,,,,
+"5844e900-90df-4bc7-9273-aa15a17a59a0","D04","GUIL","GUIL.AOS.reaeration.station.02","2017-05-12T11:44Z",20.90,204.30,,,,,"Gas vial #9 and #10 has water droplets"
+"eebf6cf7-039a-46c5-870f-9136eb966f2d","D04","GUIL","GUIL.AOS.reaeration.station.03","2017-05-12T11:44Z",21.10,204.80,,,,,
+"1d48ca77-aeeb-4610-bd14-71ec5b85c16b","D04","GUIL","GUIL.AOS.reaeration.station.01","2017-05-12T11:44Z",20.70,204.70,204.80,204.70,204.60,204.20,"Gas vial #3 has water droplets"

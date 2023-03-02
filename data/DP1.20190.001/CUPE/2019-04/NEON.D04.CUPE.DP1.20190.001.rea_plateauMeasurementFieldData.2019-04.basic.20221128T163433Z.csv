@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"55b824f5-af28-40c1-bdfd-06a0c0f5f92c","D04","CUPE","CUPE.AOS.reaeration.station.03","2019-04-22T11:39Z",22.60,310.20,,,,,"Gas sample # 11 equilibrated 45mL H2O and 15mL air."
+"50681939-00fb-4cfa-8aae-a12493d23e2a","D04","CUPE","CUPE.AOS.reaeration.station.02","2019-04-22T11:39Z",22.60,312.10,,,,,
+"bac09c81-0927-40b2-b2b3-86932336f9a5","D04","CUPE","CUPE.AOS.reaeration.station.01","2019-04-22T11:39Z",22.60,314.60,314.60,314.50,314.50,314.60,
+"a94c2496-15d9-4cad-a563-40b7056d67b5","D04","CUPE","CUPE.AOS.reaeration.station.04","2019-04-22T11:39Z",22.70,308.00,,,,,

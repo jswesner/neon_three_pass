@@ -1,0 +1,6 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"4d4d36a2-c490-4693-8794-cefd1ba5224e","D04","GUIL","GUIL.AOS.reaeration.station.03","2016-09-29T11:00Z",22.70,214.00,214.10,214.00,214.00,213.90,
+"71055823-8b2c-4493-a547-6a0d00851f21","D04","GUIL","GUIL.AOS.reaeration.station.01","2016-09-29T11:00Z",22.40,214.00,214.10,214.00,214.00,213.90,"the vial screw was loose when transfering gas injectate; possibility of leakage"
+"af83aa09-4519-4d46-8f24-04d76b6f4935","D04","GUIL","GUIL.AOS.reaeration.station.01","2016-09-29T11:00Z",22.40,214.00,214.10,214.00,214.00,213.90,
+"b7a58a5f-84d7-40f0-9ced-ca99d5c6abf3","D04","GUIL","GUIL.AOS.reaeration.station.04","2016-09-29T11:00Z",22.70,214.00,214.10,214.00,214.00,213.90,
+"d372e155-fe38-4127-8750-f0f4fb585a0d","D04","GUIL","GUIL.AOS.reaeration.station.02","2016-09-29T11:00Z",22.50,214.00,214.10,214.00,214.00,213.90,

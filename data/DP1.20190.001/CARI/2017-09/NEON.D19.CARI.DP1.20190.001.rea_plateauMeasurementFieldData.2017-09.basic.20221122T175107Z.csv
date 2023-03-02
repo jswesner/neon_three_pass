@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"ff6eb333-1e06-4e00-b8a5-da382f65df92","D19","CARI","CARI.AOS.reaeration.station.04","2017-09-15T18:31Z",2.70,3.50,,,,,
+"a668d590-1cb9-4c65-adfd-2a7aaf746964","D19","CARI","CARI.AOS.reaeration.station.01","2017-09-15T18:31Z",2.50,94.10,,,,,
+"d5b4b54d-1d8b-4b5f-87c0-64e21e02bb1f","D19","CARI","CARI.AOS.reaeration.station.03","2017-09-15T18:31Z",2.60,93.80,,,,,
+"6e190dba-f656-4d00-8941-9822d2e23972","D19","CARI","CARI.AOS.reaeration.station.02","2017-09-15T18:31Z",2.60,94.00,,,,,
+"0011b83c-c51c-4fb5-af81-c9497af4c8b0","D19","CARI","CARI.AOS.reaeration.station.04","2017-09-21T18:31Z",2.20,95.30,,,,,
+"9402ebd8-0a53-45f4-a1f6-3ac2648b5b32","D19","CARI","CARI.AOS.reaeration.station.01","2017-09-21T18:31Z",2.10,95.40,,,,,
+"5ed7b9ee-e610-4fef-80ea-1753cd0a583b","D19","CARI","CARI.AOS.reaeration.station.02","2017-09-21T18:31Z",2.10,95.10,,,,,
+"dd973d67-6287-4af9-b56e-46d0ce713f16","D19","CARI","CARI.AOS.reaeration.station.03","2017-09-21T18:31Z",2.20,95.40,,,,,

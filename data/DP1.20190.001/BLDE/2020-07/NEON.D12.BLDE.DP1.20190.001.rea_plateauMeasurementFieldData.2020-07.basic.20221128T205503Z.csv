@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"65487ed6-5458-4434-b9d1-3e2efc39636b","D12","BLDE","BLDE.AOS.reaeration.station.01","2020-07-07T14:38Z",11.70,81.90,,,,,
+"bd0efada-4b04-42f0-9f7f-0dc902b796ea","D12","BLDE","BLDE.AOS.reaeration.station.02","2020-07-07T14:38Z",11.90,83.80,,,,,
+"5fa16e45-62e2-4aea-9ef8-d5d2760a778e","D12","BLDE","BLDE.AOS.reaeration.station.03","2020-07-07T14:38Z",12.30,84.10,,,,,
+"36d0e0e4-cdeb-4af6-914b-dd078b931051","D12","BLDE","BLDE.AOS.reaeration.station.04","2020-07-07T14:38Z",12.50,84.70,,,,,

@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"a17c95c9-3c20-46cc-b482-88ef48b3fa47","D17","BIGC","BIGC.AOS.reaeration.station.03","2019-09-09T18:58Z",160.00,209.40,209.50,209.50,209.30,"Y","BIGC.B3.20190909.TCR","A00000097656",,
+"9201cde0-eb5e-4c9e-af52-621495498649","D17","BIGC","BIGC.AOS.reaeration.station.01","2019-09-09T18:58Z",40.00,207.10,207.30,209.20,207.40,"Y","BIGC.B1.20190909.TCR","A00000097654",,
+"9033a975-78ac-4148-a86e-700a63f0c761","D17","BIGC","BIGC.AOS.reaeration.station.02","2019-09-09T18:58Z",100.00,210.00,211.40,210.80,210.70,"Y","BIGC.B2.20190909.TCR","A00000097655",,
+"cd81e304-ca98-4ccb-915a-fad71cc79b5a","D17","BIGC","BIGC.AOS.reaeration.station.04","2019-09-09T18:58Z",220.00,210.20,210.20,210.10,210.20,"Y","BIGC.B4.20190909.TCR","A00000097657","Survey Crew installing BM @ top bottom and S2--minimal stream disturbance",

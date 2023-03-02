@@ -4,28 +4,12 @@ library(brms)
 library(janitor)
 
 # load data
-fish <- readRDS("data/raw_data/fish/fish_stacked.rds")
-
-fixed_reaches = fish$fsh_fieldData %>% distinct(reachID, fixedRandomReach) %>% 
-  clean_names() %>% filter(fixed_random_reach == "fixed") %>% select(reach_id) %>% pull()
-
-three_pass_data = read_csv("data/raw_data/fish/three_pass_data.csv") %>%   # restrict to fixed reaches only
-  filter(reach_id %in% fixed_reaches)
+three_pass_data_wide_total_fish = read_csv("data/raw_data/fish/three_pass_data_wide_total_fish.csv")
 
 # fit multinomial poisson (three pass depletion model) -----------------------------------------------
-# wrangle
-three_pass_data_wide = three_pass_data %>% 
-  pivot_wider(names_from = pass, values_from = total_fish) %>% 
-  ungroup() %>% 
-  replace_na(list(`1` = 0,            # replace NA with zeros (assumes zero fish if there were no values entered)
-                  `2` = 0,
-                  `3` = 0)) %>% 
-  mutate(year = as.numeric(str_sub(reach_id, 6, 9))) %>% 
-  filter(year >= 2016 & year <2022) %>% 
-  mutate(site_int = as.factor(row_number())) 
-  
+
 # put passes in a matrix (for ubms)
-three_pass_matrix = three_pass_data_wide %>% 
+three_pass_matrix = three_pass_data_wide_total_fish %>% 
   select(`1`,`2`,`3`) %>% 
   as.matrix()
 
@@ -41,7 +25,7 @@ saveRDS(three_pass_frame, file = "data/raw_data/fish/three_pass_frame.rds")
 # 
 # three_pass_model = stan_multinomPois(formula = ~site_int ~ site_int,
 #                                      data = three_pass_frame,
-#                                      chains = 4, iter = 1000)
+#                                      chains = 1, iter = 500)
 # 
 # saveRDS(three_pass_model, file = "models/three_pass_model.rds")
 
@@ -101,6 +85,7 @@ fish_total_abundance_poisson = brm(total_fish ~ reach_id + offset(median_prob),
 
 # extract posteriors and summarize
 sample_1_population  = as_draws_df(three_pass_model@stanfit) %>% 
+  as_tibble() %>% 
   clean_names() %>%
   select(contains("state_intercept")) %>% 
   mutate(name = "sample_1") %>% 
@@ -122,6 +107,7 @@ three_pass_population = as_draws_df(three_pass_model@stanfit) %>%
   rename(.lower_threepass = .lower,
          .upper_threepass = .upper) 
 
+
 single_pass_population = fish_total_abundance_poisson$data %>% 
   distinct(reach_id, median_prob) %>% 
   add_epred_draws(fish_total_abundance_poisson) %>% 
@@ -131,18 +117,16 @@ single_pass_population = fish_total_abundance_poisson$data %>%
   rename(pop_singlepass = .epred,
          .lower_singlepass = .lower,
          .upper_singlepass = .upper) %>% 
-  select(-.width, -.point, -.interval) %>% 
-  filter(reach_id %in% fixed_reaches)
-
-
+  select(-.width, -.point, -.interval) 
 
 # plot --------------------------------------------------------------------
 # combine all estimates
 all_population_estimates = fish_total_abundance_poisson$data %>% 
   left_join(single_pass_population) %>% 
-  left_join(three_pass_population) 
+  right_join(three_pass_population) %>% 
+  left_join(three_pass_data_wide %>% distinct(increased, reach_id))
 
-# saveRDS(all_population_estimates, file = "data/raw_data/fish/all_population_estimates.rds")
+saveRDS(all_population_estimates, file = "data/raw_data/fish/all_population_estimates.rds")
 
 all_population_estimates = readRDS(file = "data/raw_data/fish/all_population_estimates.rds") %>% 
   separate(reach_id, into = c("site_id", "date", "reach"), remove = "F")
@@ -151,14 +135,34 @@ all_population_estimates = readRDS(file = "data/raw_data/fish/all_population_est
 all_population_estimates %>%
   as_tibble() %>% 
   ggplot(aes(x = pop_singlepass, y = pop_threepass)) + 
-  geom_point(size = 1) +
+  geom_point(size = 1, aes(color = increased)) +
   geom_errorbarh(aes(xmin = .lower_singlepass, xmax = .upper_singlepass),
                  alpha = 0.2) + 
   geom_errorbar(aes(ymin = .lower_threepass, ymax = .upper_threepass),
                 alpha = 0.2) +
   geom_abline() + 
-  scale_x_log10(limits = c(1, 45000)) +
-  scale_y_log10(limits = c(1, 45000)) +
+  # geom_smooth(method = "lm") +
+  scale_x_log10() +
+  scale_y_log10() +
   theme_default() +
+  labs(color = "") +
   NULL
 
+
+# plot
+all_population_estimates %>%
+  as_tibble() %>% 
+  filter(increased == "depletion") %>% 
+  ggplot(aes(x = pop_singlepass, y = pop_threepass)) + 
+  geom_point(size = 1, aes(color = increased)) +
+  # geom_errorbarh(aes(xmin = .lower_singlepass, xmax = .upper_singlepass),
+                 # alpha = 0.2) + 
+  # geom_errorbar(aes(ymin = .lower_threepass, ymax = .upper_threepass),
+                # alpha = 0.2) +
+  geom_abline() + 
+  # geom_smooth(method = "lm") +
+  scale_x_log10() +
+  scale_y_log10() +
+  theme_default() +
+  labs(color = "") +
+  NULL

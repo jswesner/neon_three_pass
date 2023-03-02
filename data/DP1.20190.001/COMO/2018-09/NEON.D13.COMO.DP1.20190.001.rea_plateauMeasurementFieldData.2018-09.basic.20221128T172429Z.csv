@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"6bea1273-acce-41a8-86f1-c5596f2bfc80","D13","COMO","COMO.AOS.reaeration.station.03","2018-09-17T15:34Z",,40.00,,,,,
+"f67b6b3d-cbc5-4a71-8fb4-1ab7ec35a130","D13","COMO","COMO.AOS.reaeration.station.01","2018-09-17T15:34Z",,34.80,,,,,
+"353ae397-8ad1-40f9-a8b8-0878570c76d1","D13","COMO","COMO.AOS.reaeration.station.02","2018-09-17T15:34Z",,34.50,,,,,
+"cfe9f5b0-bdf0-4761-85be-d7afd5b0db3c","D13","COMO","COMO.AOS.reaeration.station.04","2018-09-17T15:34Z",,35.60,,,,,

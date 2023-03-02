@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"9fa06009-0e81-49eb-b668-ad8c1ab707b5","D01","HOPB","HOPB.AOS.reaeration.station.03","2018-06-05T13:24Z",13.50,123.40,,,,,
+"7f54a9c0-630e-40b1-83f9-65258f09c92e","D01","HOPB","HOPB.AOS.reaeration.station.04","2018-06-05T13:24Z",13.50,117.30,,,,,"Conductivity declining as pump shut off during sample collection"
+"11c4ec03-484d-4908-a87f-7a4ca3e8a153","D01","HOPB","HOPB.AOS.reaeration.station.01","2018-06-05T13:24Z",13.50,128.00,111.00,127.30,126.90,127.00,
+"60757105-1124-4f1d-a53d-0271e39a6d86","D01","HOPB","HOPB.AOS.reaeration.station.02","2018-06-05T13:24Z",13.50,124.70,,,,,

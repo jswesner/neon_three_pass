@@ -1,0 +1,7 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"ba010066-e10d-48b9-a407-dea2b1269c59","D13","COMO","COMO.AOS.reaeration.station.01","2017-07-06T16:45Z",18.60,"COMO_S1_20170706"
+"969d53fd-cdc0-41f1-b409-ee3e64f72596","D13","COMO","COMO.AOS.reaeration.station.04","2017-07-06T16:45Z",101.60,"COMO_S4_20170706"
+"a57f5730-05f7-41ef-adbe-4d8b95bf924a","D13","COMO","COMO.AOS.reaeration.station.04","2017-07-17T18:00Z",101.60,"COMO_S4_20170717"
+"cc9379db-e503-4698-b38e-f5bf073e5766","D13","COMO","COMO.AOS.reaeration.station.01","2017-07-17T18:00Z",18.60,"COMO_S1_20170717"
+"16bc6f79-7a0a-44f4-99d2-37de23fd04ee","D13","COMO","COMO.AOS.reaeration.station.01","2017-07-25T16:04Z",18.60,"COMO_S1_20170725"
+"240a01d4-c73e-4d20-9e72-a06cb1e09896","D13","COMO","COMO.AOS.reaeration.station.04","2017-07-25T16:04Z",101.60,"COMO_S4_20170725"

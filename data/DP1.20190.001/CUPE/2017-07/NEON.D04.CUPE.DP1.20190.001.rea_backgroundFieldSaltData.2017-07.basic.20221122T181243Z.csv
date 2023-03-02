@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"9ea320e6-c735-4b60-8811-d2e74277bbc2","D04","CUPE","CUPE.AOS.reaeration.station.02","2017-07-21T12:01Z",144.00,297.10,297.10,297.10,296.90,"Y","CUPE.B2.20170721.TCR",,"Temp 23.8C",
+"35570702-7f58-4a90-bed9-8e66942a9327","D04","CUPE","CUPE.AOS.reaeration.station.03","2017-07-21T12:01Z",219.00,298.20,298.10,297.70,297.60,"Y","CUPE.B3.20170721.TCR",,"23.9 C water temperature",
+"edcccdd5-1e2a-4179-b5aa-b085927816e7","D04","CUPE","CUPE.AOS.reaeration.station.04","2017-07-21T12:01Z",327.00,298.50,298.10,298.20,298.20,"Y","CUPE.B4.20170721.TCR",,"Water temperature 23.9 C",
+"ef812c60-2a05-43cc-9551-67a7a5357fa1","D04","CUPE","CUPE.AOS.reaeration.station.01","2017-07-21T12:01Z",64.00,294.90,294.90,294.90,295.00,"Y","CUPE.B1.20170721.TCR",,"Temp 23.8C Hobo S1 had problems with data.",

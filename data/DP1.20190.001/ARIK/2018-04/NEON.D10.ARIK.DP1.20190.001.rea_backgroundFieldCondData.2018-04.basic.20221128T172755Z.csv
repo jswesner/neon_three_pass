@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"1bf08ced-00b1-404d-89de-1a58f6331240","D10","ARIK","ARIK.AOS.reaeration.station.01","2018-04-02T23:37Z",50.00,"ARIK_S1_20180402"
+"7d531433-8d04-4873-887f-0126c6031b54","D10","ARIK","ARIK.AOS.reaeration.station.04","2018-04-02T23:37Z",190.00,"ARIK_S4_20180402"
+"7233fc3d-6738-4fd1-bcc3-f638c7993c01","D10","ARIK","ARIK.AOS.reaeration.station.01","2018-04-30T23:05Z",49.00,"ARIK_S1_20180430"
+"30ad3880-0f63-4c9a-8fa5-da4ce2feea1b","D10","ARIK","ARIK.AOS.reaeration.station.04","2018-04-30T23:05Z",190.00,"ARIK_S4_20180430"

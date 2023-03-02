@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"97328dab-ac6f-4a6d-baa5-89eb3c626f2d","D17","BIGC","BIGC.AOS.reaeration.station.04","2017-06-20T16:46Z",16.00,89.40,,,,,
+"092aa0e1-c3cc-48d4-bd19-0c670943a974","D17","BIGC","BIGC.AOS.reaeration.station.02","2017-06-20T16:46Z",15.80,88.80,,,,,
+"730cde28-d2d1-4020-8b4f-d7bbe384966d","D17","BIGC","BIGC.AOS.reaeration.station.01","2017-06-20T16:46Z",15.70,89.20,86.70,86.60,88.70,88.40,
+"7fc55081-2b67-43cb-98e6-6c280e473324","D17","BIGC","BIGC.AOS.reaeration.station.03","2017-06-20T16:46Z",16.00,88.00,,,,,
+"84748abd-31ab-48ac-abc1-02e6743ad19c","D17","BIGC","BIGC.AOS.reaeration.station.01","2017-06-27T17:54Z",16.70,96.70,92.10,96.60,96.70,91.80,
+"2dc53319-914a-4b25-b12a-6bddcfbbbb90","D17","BIGC","BIGC.AOS.reaeration.station.04","2017-06-27T17:54Z",16.80,95.90,,,,,
+"832ff362-f58f-41ac-86d2-27602ae767d6","D17","BIGC","BIGC.AOS.reaeration.station.03","2017-06-27T17:54Z",16.90,96.90,,,,,
+"90a6fe7b-cca5-4e94-9196-88f89739488f","D17","BIGC","BIGC.AOS.reaeration.station.02","2017-06-27T17:54Z",16.80,93.70,,,,,

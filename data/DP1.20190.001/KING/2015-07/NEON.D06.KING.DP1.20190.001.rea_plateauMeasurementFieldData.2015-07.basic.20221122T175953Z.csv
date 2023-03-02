@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"36c37bf0-36d4-4b26-abe2-7cb8ca54ba5a","D06","KING","KING.AOS.reaeration.station.01","2015-07-21T15:51Z",15.00,620.00,613.00,604.00,622.00,635.00,
+"c87cabfe-e063-4a94-b9e3-7f9f658e24bd","D06","KING","KING.AOS.reaeration.station.03","2015-07-21T15:51Z",18.80,620.00,613.00,604.00,622.00,635.00,
+"a8224374-4d17-49b2-a841-c0bc0306e9ec","D06","KING","KING.AOS.reaeration.station.02","2015-07-21T15:51Z",18.80,620.00,613.00,604.00,622.00,635.00,
+"7affd05c-3549-406d-8ade-e1c80f0bb6ca","D06","KING","KING.AOS.reaeration.station.04","2015-07-21T15:51Z",18.90,620.00,613.00,604.00,622.00,635.00,
+"55091281-455e-4c00-b22e-f2e49f58f784","D06","KING","KING.AOS.reaeration.station.02","2015-07-29T16:00Z",18.20,,,,,,
+"4a2edfcc-1d7d-4f6e-a691-0726598e42d6","D06","KING","KING.AOS.reaeration.station.04","2015-07-29T16:00Z",18.40,,,,,,
+"30339b95-5a07-49f5-be8e-043a268b0937","D06","KING","KING.AOS.reaeration.station.03","2015-07-29T16:00Z",18.10,,,,,,
+"2526c276-5981-43ae-8894-aca5ff732bc8","D06","KING","KING.AOS.reaeration.station.01","2015-07-29T16:00Z",17.40,,,,,,

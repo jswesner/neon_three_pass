@@ -1,3 +1,7 @@
+# download NEON data for three-pass fish eclectroshocking, wrangle it. The resulting data 
+# is used to estimate population size with three-pass depletion models. 
+# Modeling occurs in a different script.
+
 library(neonUtilities)
 library(tidyverse)
 library(janitor)
@@ -180,6 +184,8 @@ three_pass_data_species = bind_rows(fish_bulk, fish_measures_species) %>%
   left_join(fish_reach_length) %>% 
   left_join(mean_wetted_width) %>% 
   left_join(fixed_random_reach)
+
+saveRDS(three_pass_data_species, file = "data/raw_data/fish/three_pass_data_species.rds")
 
 three_pass_data_wide_species = three_pass_data_species %>%   # restrict to fixed reaches only
   filter(fixed_random_reach == "fixed") %>% 

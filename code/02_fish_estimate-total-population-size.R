@@ -2,14 +2,15 @@ library(tidyverse)
 library(ubms)
 library(brms)
 library(janitor)
+library(tidybayes)
 
 # load data
-three_pass_data_wide_total_fish = read_csv("data/raw_data/fish/three_pass_data_wide_total_fish.csv")
+three_pass_data_wide = read_csv("data/raw_data/fish/three_pass_data_wide_total_fish.csv")
 
 # fit multinomial poisson (three pass depletion model) -----------------------------------------------
 
 # put passes in a matrix (for ubms)
-three_pass_matrix = three_pass_data_wide_total_fish %>% 
+three_pass_matrix = three_pass_data_wide %>% 
   select(`1`,`2`,`3`) %>% 
   as.matrix()
 
@@ -65,13 +66,13 @@ site_capture_probs = capture_prob_posts %>%
 
 # fit poisson (single pass) -----------------------------------------------
 
-stream_fish_firstpass = three_pass_data %>%
-  separate(reach_id, into = c("site_id", "date", "reach"), remove = F) %>% 
-  mutate(date = ymd(date),
-         julian = julian(date)) %>% 
-  filter(pass == 1) %>%
-  left_join(site_capture_probs) %>% 
-  group_by(reach_id, pass) 
+stream_fish_firstpass = three_pass_data_wide %>%
+  mutate(julian = julian(date)) %>% 
+  mutate(total_fish = `1`) %>% 
+  left_join(site_capture_probs) 
+
+
+fish_total_abundance_poisson = readRDS("models/fish_total-abundance-poisson.rds")
 
 fish_total_abundance_poisson = brm(total_fish ~ reach_id + offset(median_prob),
                              family = poisson(link = "log"),
@@ -100,7 +101,8 @@ three_pass_population = as_draws_df(three_pass_model@stanfit) %>%
   select(name, value) %>% 
   mutate(site_int = as.factor(parse_number(name))) %>% #get original group names
   left_join(three_pass_data_wide %>% ungroup %>% 
-              distinct(site_int, reach_id)) %>% 
+              distinct(site_int, reach_id) %>% 
+              mutate(site_int = as.factor(site_int))) %>% 
   group_by(reach_id) %>% # group and summarize
   median_qi(pop_threepass = exp(value)) %>% # summarize on the probability scale (via link function)
   select(-.width, -.point, -.interval) %>% 

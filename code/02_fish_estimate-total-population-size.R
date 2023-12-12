@@ -131,7 +131,7 @@ all_population_estimates = fish_total_abundance_poisson$data %>%
 saveRDS(all_population_estimates, file = "data/raw_data/fish/all_population_estimates.rds")
 
 all_population_estimates = readRDS(file = "data/raw_data/fish/all_population_estimates.rds") %>% 
-  separate(reach_id, into = c("site_id", "date", "reach"), remove = "F")
+  separate(reach_id, into = c("site_id", "date", "reach"), remove = F)
 
 # plot
 all_population_estimates %>%
@@ -150,17 +150,16 @@ all_population_estimates %>%
   labs(color = "") +
   NULL
 
-
 # plot
 all_population_estimates %>%
   as_tibble() %>% 
   filter(increased == "depletion") %>% 
   ggplot(aes(x = pop_singlepass, y = pop_threepass)) + 
   geom_point(size = 1, aes(color = increased)) +
-  # geom_errorbarh(aes(xmin = .lower_singlepass, xmax = .upper_singlepass),
-                 # alpha = 0.2) + 
-  # geom_errorbar(aes(ymin = .lower_threepass, ymax = .upper_threepass),
-                # alpha = 0.2) +
+  geom_errorbarh(aes(xmin = .lower_singlepass, xmax = .upper_singlepass),
+  alpha = 0.2) +
+  geom_errorbar(aes(ymin = .lower_threepass, ymax = .upper_threepass),
+  alpha = 0.2) +
   geom_abline() + 
   # geom_smooth(method = "lm") +
   scale_x_log10() +

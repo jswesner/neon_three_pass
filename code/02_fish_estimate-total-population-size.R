@@ -134,21 +134,77 @@ all_population_estimates = readRDS(file = "data/raw_data/fish/all_population_est
   separate(reach_id, into = c("site_id", "date", "reach"), remove = F)
 
 # plot
-all_population_estimates %>%
+one_v_three = all_population_estimates %>%
   as_tibble() %>% 
   ggplot(aes(x = pop_singlepass, y = pop_threepass)) + 
   geom_point(size = 1, aes(color = increased)) +
   geom_errorbarh(aes(xmin = .lower_singlepass, xmax = .upper_singlepass),
-                 alpha = 0.2) + 
+                 alpha = 0.1) +
   geom_errorbar(aes(ymin = .lower_threepass, ymax = .upper_threepass),
-                alpha = 0.2) +
+                alpha = 0.1) +
   geom_abline() + 
   # geom_smooth(method = "lm") +
   scale_x_log10() +
   scale_y_log10() +
   theme_default() +
-  labs(color = "") +
+  ggthemes::scale_color_colorblind() +
+  labs(color = "",
+       y = "Total number of fish\n(All three passes)",
+       x = "Total number of fish\n(First pass only x capture probablities)",
+       caption = "Figure 2. The y-axis is the population estimate for fish using a three-pass depeletion multinomial
+       Poisson model. The x-axis is the population estimate from the first pass of the three-pass data.
+       It estimates the population size from the first pass only and then adjusts it using the median capture
+       probability as an offset. The median capture probability is obtained from the three-pass
+       multinomial Poisson model.") +
+  theme(legend.position = c(0.2, 0.95),
+        plot.caption = element_text(hjust = 0)) +
   NULL
+
+one_v_three
+
+saveRDS(one_v_three, file = "plots/one_v_three.rds")
+ggview::ggview(one_v_three, width = 6.5, height = 8)
+ggsave(one_v_three, file = "plots/one_v_three.jpg", width = 6.5, height = 8, dpi = 500)
+
+
+# all three_pass_estimates
+
+three_posts = as_draws_df(three_pass_model@stanfit) %>% 
+  select(contains("_state")) %>% 
+  pivot_longer(cols = !contains("ntercept")) %>% 
+  clean_names() %>% 
+  mutate(value = exp(beta_state_intercept + value)) %>% 
+  bind_rows(sample_1) %>% 
+  select(name, value) %>% 
+  mutate(site_int = as.factor(parse_number(name))) %>% #get original group names
+  left_join(three_pass_data_wide %>% ungroup %>% 
+              distinct(site_int, reach_id, mean_wetted_width_m, measured_reach_length) %>% 
+              mutate(site_int = as.factor(site_int))) %>% 
+  mutate(site_id = str_sub(reach_id, 1, 4)) %>% 
+  group_by(site_id) %>% 
+  mutate(median = median(value)) %>% 
+  group_by(site_int) %>% 
+  mutate(fill_color = median(value),
+         value_m2 = value/(mean_wetted_width_m*measured_reach_length))
+
+
+density_three_pass = three_posts %>% 
+  # filter(site_id %in% c("ARIK", "BLUE")) %>% 
+  ggplot(aes(x = value_m2, y = reorder(site_id, median))) + 
+  ggridges::geom_density_ridges(aes(group = site_int), 
+                                scale = 1) +
+  theme_default() +
+  scale_x_log10() +
+  labs(x = "Total number of fish per square meter",
+       y = "NEON Site (ordered by median fish abundance)",
+       caption = "Figure 1. Posterior distributions of fish population densities (number/m2) from 466
+       three-pass removal collections across NEON sites.")
+
+ggview::ggview(density_three_pass, width = 6.5, height = 9)
+saveRDS(density_three_pass, file = "plots/density_three_pass.rds")
+ggsave(density_three_pass, file = "plots/density_three_pass.jpg", width = 6.5, height = 9,
+       dpi = 400)
+
 
 # plot
 all_population_estimates %>%

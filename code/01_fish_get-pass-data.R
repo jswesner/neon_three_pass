@@ -9,7 +9,6 @@ library(lubridate)
 library(tidybayes)
 library(brms)
 library(neonstore)
-library(neonDivData)
 
 # directory
 Sys.setenv(NEONSTORE_HOME = paste(getwd(), 
@@ -45,6 +44,7 @@ streamsites=c("HOPB", "LEWI", "POSE", "CUPE",
               # table = "variables",
               # type="basic",
               # site= "ARIK")
+
 # # stack data
 # fish_stacked = stackFromStore(filepaths=neon_dir(),
 #                       dpID="DP1.20107.001",
@@ -63,6 +63,7 @@ streamsites=c("HOPB", "LEWI", "POSE", "CUPE",
 # get reach lengths and widths --------------------------------------------
 stream_widths_stacked = readRDS("data/raw_data/fish/stream_widths_stacked.rds")
 
+# mean wetted width. Combine with reach lengths to get sampling area later.
 mean_wetted_width = stream_widths_stacked$rea_widthFieldData %>%
   clean_names() %>% 
   select(site_id, collect_date, wetted_width) %>% 
@@ -86,7 +87,7 @@ reach_event = fish$fsh_perPass %>%
 # 2) get info on whether reaches are fixed or random. Only fixed reaches have 3 pass removal. Random reaches are all single pass
 fixed_random_reach = fish$fsh_fieldData %>% 
   distinct(reachID, fixedRandomReach) %>% 
-  filter(reachID != "WALK.20170316.07" | fixedRandomReach != "fixed") %>% # fix this type. Confirmed by email with NEON on 2023-03-01
+  filter(reachID != "WALK.20170316.07" | fixedRandomReach != "fixed") %>% # fix this typo. Confirmed by email with NEON on 2023-03-01
   clean_names()
 
 # 3) get reach lengths
@@ -97,7 +98,9 @@ fish_reach_length = fish$fsh_fieldData %>%
   add_tally() %>% 
   filter(n == 1)   # filters duplicate reach lengths
 
-# 4) the first 50 fish are measured for length. They are here in fsh_perFish
+# The next two steps combine two datasets. These are needed to obtain the number of fish per pass. Either alone would be
+# an inaccurate number.
+# 4) Get fish abundance from fsh_perFish. The first 50 fish are measured for length. They are here in fsh_perFish
 fish_measures = fish$fsh_perFish %>% 
   select(eventID, taxonID) %>% 
   separate(eventID, into = c("site_id", "date", "reach", "pass", "method"), remove = F) %>%
